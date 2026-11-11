@@ -1,0 +1,5127 @@
+{
+  "schema_version": "synthetic-quantitative-tools-v1",
+  "synthetic": true,
+  "status": "candidate",
+  "calibrated": false,
+  "active_by_default": false,
+  "real_accuracy_claim": null,
+  "seed": 20261111,
+  "warning": "合成演示/待标定；无真实赛果，不产生真实精度声明",
+  "dataset": {
+    "synthetic": true,
+    "source": "independent Bernoulli fixture; no real match results",
+    "seed": 20261111,
+    "probabilities": [
+      0.44664474642657537,
+      0.9498307366457481,
+      0.3515890847912875,
+      0.45994311318817366,
+      0.7891415785625705,
+      0.866093539591407,
+      0.12611559997706628,
+      0.7431729751145472,
+      0.06114482503644586,
+      0.47854083478884135,
+      0.15583776375686037,
+      0.2960458519147831,
+      0.1323318053255899,
+      0.60805566028725,
+      0.553097719161072,
+      0.09258530116433589,
+      0.2112161092784376,
+      0.09768459118682954,
+      0.4718754483169168,
+      0.6301692476473827,
+      0.32288063588417765,
+      0.822382877660367,
+      0.9584628297999764,
+      0.42800532507732275,
+      0.6217857520875439,
+      0.26066187122195095,
+      0.8483570081285665,
+      0.48568863726946204,
+      0.7080918327690329,
+      0.4670928980337275,
+      0.147442169597231,
+      0.7070489385235293,
+      0.21444667220310532,
+      0.17976978837651075,
+      0.3605059565538525,
+      0.4732333456833655,
+      0.7802322258616281,
+      0.7709140409761102,
+      0.688725658022829,
+      0.6629333206618636,
+      0.8151250484089694,
+      0.1524809093776044,
+      0.2784565194811348,
+      0.4065304599620829,
+      0.9279442319148178,
+      0.2765597292495884,
+      0.049127548189447146,
+      0.38493132093841953,
+      0.6935048416447831,
+      0.08362352370941312,
+      0.8678944330210707,
+      0.5421785434878998,
+      0.643297375775148,
+      0.4939499821283615,
+      0.4475152231065158,
+      0.49976879654248324,
+      0.6504013788911126,
+      0.29400713925993804,
+      0.23158239614823445,
+      0.8216233668557917,
+      0.2583918143233366,
+      0.5413714323889426,
+      0.8685112519395863,
+      0.026890850069197447,
+      0.22029763163192945,
+      0.17077048555389868,
+      0.7996178989819896,
+      0.19061662266872315,
+      0.6234521497102886,
+      0.5895106850264553,
+      0.7028276822908927,
+      0.13207008394798725,
+      0.5455130547778722,
+      0.29254270906523555,
+      0.43029613298166536,
+      0.09252712220391801,
+      0.11243972551618547,
+      0.6230760346102893,
+      0.8833561362529789,
+      0.9418709398889977,
+      0.13456536440284256,
+      0.8037335608978473,
+      0.7074154937692938,
+      0.28298701123530423,
+      0.7961105315170416,
+      0.8365562213764484,
+      0.9744658121666141,
+      0.18410725013817303,
+      0.2609949632199216,
+      0.08538071078525872,
+      0.6332061132397668,
+      0.6598595065339792,
+      0.1944107903505783,
+      0.38889704141101417,
+      0.9757237002035701,
+      0.7356654520918325,
+      0.29021983576244514,
+      0.12301392387631765,
+      0.844422351557159,
+      0.8165419447513644,
+      0.5717754096456092,
+      0.941852753594089,
+      0.7881152332827569,
+      0.28126127956456926,
+      0.2778330194954971,
+      0.8194030731128791,
+      0.7233816017768813,
+      0.5871331833062263,
+      0.25256955302376927,
+      0.33291856954794563,
+      0.8793261101506635,
+      0.3705947628650137,
+      0.062131182088493886,
+      0.7595350288019982,
+      0.23604395965255653,
+      0.7643552117893053,
+      0.5208550592607039,
+      0.9548479028405296,
+      0.7397899796636964,
+      0.6940128918868899
+    ],
+    "outcomes": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  "calibration": {
+    "schema_version": "synthetic-calibration-v1",
+    "synthetic": true,
+    "active_by_default": false,
+    "calibrated": false,
+    "status": "candidate",
+    "source": "independent Bernoulli fixture; no real match results",
+    "warning": "synthetic / candidate / 未校准；仅检验工具与合成假设，不代表真实比赛精度",
+    "real_accuracy_claim": null,
+    "empirical_sample_size": 0,
+    "coverage": {
+      "total": 120,
+      "evaluated": 120,
+      "missing_probability": 0,
+      "missing_outcome": 0,
+      "excluded": 0,
+      "fraction": 1.0
+    },
+    "metrics": {
+      "brier": 0.19487211991730263,
+      "log_loss": 0.5876254598698075,
+      "ece": 0.08795151158536275
+    },
+    "binning": {
+      "method": "equal_width",
+      "n_bins": 10
+    },
+    "log_loss_epsilon": 1e-15,
+    "reliability_bins": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 0.1,
+        "upper_inclusive": false,
+        "count": 9,
+        "mean_probability": 0.0723439616037044,
+        "outcome_rate": 0.1111111111111111,
+        "absolute_gap": 0.0387671495074067,
+        "outcome_rate_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.019890887638544907,
+          "upper": 0.434999705576656,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "index": 1,
+        "lower": 0.1,
+        "upper": 0.2,
+        "upper_inclusive": false,
+        "count": 14,
+        "mean_probability": 0.15256944877611206,
+        "outcome_rate": 0.14285714285714285,
+        "absolute_gap": 0.00971230591896921,
+        "outcome_rate_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.040093921271464966,
+          "upper": 0.39941379496970353,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "index": 2,
+        "lower": 0.2,
+        "upper": 0.3,
+        "upper_inclusive": false,
+        "count": 18,
+        "mean_probability": 0.26200655920731875,
+        "outcome_rate": 0.2777777777777778,
+        "absolute_gap": 0.015771218570459045,
+        "outcome_rate_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.12499753379553993,
+          "upper": 0.5087265656029746,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "index": 3,
+        "lower": 0.3,
+        "upper": 0.4,
+        "upper_inclusive": false,
+        "count": 7,
+        "mean_probability": 0.3589024817131015,
+        "outcome_rate": 0.42857142857142855,
+        "absolute_gap": 0.06966894685832703,
+        "outcome_rate_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.15821985525146975,
+          "upper": 0.7495416354723428,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "index": 4,
+        "lower": 0.4,
+        "upper": 0.5,
+        "upper_inclusive": false,
+        "count": 13,
+        "mean_probability": 0.46069884180811493,
+        "outcome_rate": 0.6923076923076923,
+        "absolute_gap": 0.23160885049957736,
+        "outcome_rate_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.42369343180549035,
+          "upper": 0.8731929634428948,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "index": 5,
+        "lower": 0.5,
+        "upper": 0.6,
+        "upper_inclusive": false,
+        "count": 8,
+        "mean_probability": 0.5564293858818476,
+        "outcome_rate": 0.5,
+        "absolute_gap": 0.05642938588184765,
+        "outcome_rate_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.21521606221387757,
+          "upper": 0.7847839377861224,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "index": 6,
+        "lower": 0.6,
+        "upper": 0.7,
+        "upper_inclusive": false,
+        "count": 13,
+        "mean_probability": 0.6486523023845483,
+        "outcome_rate": 0.6153846153846154,
+        "absolute_gap": 0.03326768699993288,
+        "outcome_rate_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.355228915126657,
+          "upper": 0.8229029220223743,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "index": 7,
+        "lower": 0.7,
+        "upper": 0.8,
+        "upper_inclusive": false,
+        "count": 16,
+        "mean_probability": 0.7509634816108192,
+        "outcome_rate": 0.875,
+        "absolute_gap": 0.12403651838918084,
+        "outcome_rate_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.639771727342413,
+          "upper": 0.9650225122567595,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "index": 8,
+        "lower": 0.8,
+        "upper": 0.9,
+        "upper_inclusive": false,
+        "count": 14,
+        "mean_probability": 0.8423804945503642,
+        "outcome_rate": 0.7142857142857143,
+        "absolute_gap": 0.12809478026464993,
+        "outcome_rate_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.4535091567010681,
+          "upper": 0.8827862135542308,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "index": 9,
+        "lower": 0.9,
+        "upper": 1.0,
+        "upper_inclusive": true,
+        "count": 8,
+        "mean_probability": 0.9531248633817928,
+        "outcome_rate": 0.75,
+        "absolute_gap": 0.2031248633817928,
+        "outcome_rate_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.40927543031016883,
+          "upper": 0.9285207872478909,
+          "scope": "synthetic_iid_labels_only"
+        }
+      }
+    ],
+    "calibration_curve": [
+      {
+        "x": 0.0723439616037044,
+        "y": 0.1111111111111111,
+        "count": 9,
+        "bin_index": 0,
+        "y_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.019890887638544907,
+          "upper": 0.434999705576656,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "x": 0.15256944877611206,
+        "y": 0.14285714285714285,
+        "count": 14,
+        "bin_index": 1,
+        "y_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.040093921271464966,
+          "upper": 0.39941379496970353,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "x": 0.26200655920731875,
+        "y": 0.2777777777777778,
+        "count": 18,
+        "bin_index": 2,
+        "y_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.12499753379553993,
+          "upper": 0.5087265656029746,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "x": 0.3589024817131015,
+        "y": 0.42857142857142855,
+        "count": 7,
+        "bin_index": 3,
+        "y_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.15821985525146975,
+          "upper": 0.7495416354723428,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "x": 0.46069884180811493,
+        "y": 0.6923076923076923,
+        "count": 13,
+        "bin_index": 4,
+        "y_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.42369343180549035,
+          "upper": 0.8731929634428948,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "x": 0.5564293858818476,
+        "y": 0.5,
+        "count": 8,
+        "bin_index": 5,
+        "y_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.21521606221387757,
+          "upper": 0.7847839377861224,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "x": 0.6486523023845483,
+        "y": 0.6153846153846154,
+        "count": 13,
+        "bin_index": 6,
+        "y_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.355228915126657,
+          "upper": 0.8229029220223743,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "x": 0.7509634816108192,
+        "y": 0.875,
+        "count": 16,
+        "bin_index": 7,
+        "y_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.639771727342413,
+          "upper": 0.9650225122567595,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "x": 0.8423804945503642,
+        "y": 0.7142857142857143,
+        "count": 14,
+        "bin_index": 8,
+        "y_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.4535091567010681,
+          "upper": 0.8827862135542308,
+          "scope": "synthetic_iid_labels_only"
+        }
+      },
+      {
+        "x": 0.9531248633817928,
+        "y": 0.75,
+        "count": 8,
+        "bin_index": 9,
+        "y_interval": {
+          "method": "wilson",
+          "level": 0.95,
+          "lower": 0.40927543031016883,
+          "upper": 0.9285207872478909,
+          "scope": "synthetic_iid_labels_only"
+        }
+      }
+    ],
+    "limitations": [
+      "ECE depends on binning and sample size; low ECE is not proof of accuracy.",
+      "Wilson intervals assume independent synthetic binary labels; no real-data coverage claim.",
+      "Diagnostics do not fit or deploy calibrated parameters."
+    ]
+  },
+  "sensitivity": {
+    "schema_version": "synthetic-sensitivity-v1",
+    "synthetic": true,
+    "calibrated": false,
+    "active_by_default": false,
+    "source": "cn/synthetic-mode-v2/competitive: explicit synthetic process fixture",
+    "response_name": "mean model-internal P(win) draws per process seed",
+    "warning": "synthetic / candidate / 未校准；仅检验工具与合成假设，不代表真实比赛精度",
+    "real_accuracy_claim": null,
+    "baseline_parameters": {
+      "style_mix.fight": 0.17,
+      "style_mix.farm": 0.2,
+      "style_mix.macro": 0.26,
+      "style_mix.group": 0.11,
+      "style_mix.split": 0.13,
+      "style_mix.roam_gank": 0.13,
+      "p_contest.a": 0.7404761904761905,
+      "p_contest.b": 0.23809523809523808,
+      "volatility": 0.35,
+      "adc_dawn_ready_multiplier": 1.25,
+      "adc_dawn_not_ready_multiplier": 0.8,
+      "storm_high_ground_scale": 0.25,
+      "storm_backdoor_scale": 0.4
+    },
+    "seeds": [
+      20261111,
+      20261112,
+      20261113,
+      20261114,
+      20261115,
+      20261116,
+      20261117,
+      20261118,
+      20261119,
+      20261120,
+      20261121,
+      20261122,
+      20261123,
+      20261124,
+      20261125,
+      20261126,
+      20261127,
+      20261128,
+      20261129,
+      20261130
+    ],
+    "baseline": {
+      "status": "synthetic",
+      "n": 20,
+      "known_n": 20,
+      "unknown_n": 0,
+      "mean": 0.6639004884184795,
+      "known_subset_mean": 0.6639004884184795,
+      "simulation_interval": {
+        "kind": "synthetic_seed_response_quantiles",
+        "level": 0.9,
+        "lower": 0.42637452953545385,
+        "upper": 0.7970505735114941
+      },
+      "mean_interval": {
+        "method": "iid_percentile_bootstrap_mean",
+        "level": 0.95,
+        "resamples": 200,
+        "seed": 0,
+        "lower": 0.6062837972241052,
+        "upper": 0.7166611175896747,
+        "scope": "synthetic_sampling_only",
+        "n": 20
+      }
+    },
+    "scans": [
+      {
+        "parameter": "style_mix.fight",
+        "range": [
+          0.136,
+          0.20400000000000001
+        ],
+        "baseline_value": 0.17,
+        "grid": [
+          {
+            "value": 0.136,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6724705571120786,
+            "known_subset_mean": 0.6724705571120786,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.365190197502687,
+              "upper": 0.8311357434188387
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6103353019217908,
+              "upper": 0.7267762198857715,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.008570068693599234,
+              "known_subset_mean": 0.008570068693599234,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.032867485054569406,
+                "upper": 0.06289741877061115
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.0036178584658056586,
+                "upper": 0.02054751914513711,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.17,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.20400000000000001,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.636241458387579,
+            "known_subset_mean": 0.636241458387579,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.3818078281798398,
+              "upper": 0.7649395752975792
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.575967751747328,
+              "upper": 0.6929931981584413,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.027659030030900488,
+              "known_subset_mean": -0.027659030030900488,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.08492392945919935,
+                "upper": -0.0024874518224712403
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.059170481771145714,
+                "upper": -0.008084312759101332,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": -0.5327808635955842,
+          "known_subset_mean": -0.5327808635955842,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": -1.3998727839186267,
+            "upper": 0.8708996685197604
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": -0.9848561383810667,
+            "upper": -0.18243211145500302,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.636241458387579,
+          0.6724705571120786
+        ],
+        "tornado_impact": 0.03622909872449964,
+        "low_delta": 0.008570068693599109,
+        "high_delta": -0.027659030030900533
+      },
+      {
+        "parameter": "style_mix.farm",
+        "range": [
+          0.16000000000000003,
+          0.24
+        ],
+        "baseline_value": 0.2,
+        "grid": [
+          {
+            "value": 0.16000000000000003,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6068685254297081,
+            "known_subset_mean": 0.6068685254297081,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.3050767987345508,
+              "upper": 0.7577796061493687
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.5430778879711815,
+              "upper": 0.6626396980872168,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.05703196298877128,
+              "known_subset_mean": -0.05703196298877128,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.11592094104128278,
+                "upper": -0.03181393085792091
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.06925653000968832,
+                "upper": -0.04704349047543506,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.2,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.24,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6921756790263387,
+            "known_subset_mean": 0.6921756790263387,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.4483477499835638,
+              "upper": 0.8314334833656079
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6353181443703555,
+              "upper": 0.7478334243278829,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.028275190607859296,
+              "known_subset_mean": 0.028275190607859296,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.03742285980369209,
+                "upper": 0.0566942225020233
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.00024069944252664904,
+                "upper": 0.045810786655719464,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": 1.0663394199578826,
+          "known_subset_mean": 1.0663394199578826,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": 0.13092319083060966,
+            "upper": 1.8936560426675928
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": 0.6668983192613069,
+            "upper": 1.3572804529557372,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.6068685254297081,
+          0.6921756790263387
+        ],
+        "tornado_impact": 0.08530715359663055,
+        "low_delta": -0.057031962988771334,
+        "high_delta": 0.028275190607859213
+      },
+      {
+        "parameter": "style_mix.macro",
+        "range": [
+          0.20800000000000002,
+          0.312
+        ],
+        "baseline_value": 0.26,
+        "grid": [
+          {
+            "value": 0.20800000000000002,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6634016912221817,
+            "known_subset_mean": 0.6634016912221817,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.37283768361950453,
+              "upper": 0.8096858167596612
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6047314268331153,
+              "upper": 0.7187225037245091,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.0004987971962977539,
+              "known_subset_mean": -0.0004987971962977539,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.06932154488816653,
+                "upper": 0.02058835870722888
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.014065275561637787,
+                "upper": 0.013094225369814496,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.26,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.312,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6259561449038196,
+            "known_subset_mean": 0.6259561449038196,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.3747502570470778,
+              "upper": 0.7825650462425008
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.5671466142776088,
+              "upper": 0.6848262221457343,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.03794434351465982,
+              "known_subset_mean": -0.03794434351465982,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.09364768067462129,
+                "upper": -0.007908292722057985
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.06780661506118886,
+                "upper": -0.019149789606564643,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": -0.36005332998425066,
+          "known_subset_mean": -0.36005332998425066,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": -1.0261677721882532,
+            "upper": 0.4218065082665182
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": -0.6749699470022876,
+            "upper": -0.11879512617353008,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.6259561449038196,
+          0.6639004884184795
+        ],
+        "tornado_impact": 0.03794434351465992,
+        "low_delta": -0.0004987971962977511,
+        "high_delta": -0.03794434351465992
+      },
+      {
+        "parameter": "style_mix.group",
+        "range": [
+          0.08800000000000001,
+          0.132
+        ],
+        "baseline_value": 0.11,
+        "grid": [
+          {
+            "value": 0.08800000000000001,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6553699589519024,
+            "known_subset_mean": 0.6553699589519024,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.3994238799255028,
+              "upper": 0.801564268095822
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.595588072328328,
+              "upper": 0.7137369065777602,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.008530529466576963,
+              "known_subset_mean": -0.008530529466576963,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.014687098932257808,
+                "upper": 0.0066385761102184665
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.03507099302440994,
+                "upper": 0.005396879004701503,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.11,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.132,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6500073723253637,
+            "known_subset_mean": 0.6500073723253637,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.34829454950477406,
+              "upper": 0.7924619081468144
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.59083591328004,
+              "upper": 0.7031829057774966,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.0138931160931158,
+              "known_subset_mean": -0.0138931160931158,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.07422447507757456,
+                "upper": -0.004588665364679756
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.024310440706226413,
+                "upper": -0.005875327489924238,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": -0.12187696878497356,
+          "known_subset_mean": -0.12187696878497356,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": -1.7837993846185363,
+            "upper": 0.1983362358657365
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": -0.6077199793025594,
+            "upper": 0.6421987356002119,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.6500073723253637,
+          0.6639004884184795
+        ],
+        "tornado_impact": 0.013893116093115832,
+        "low_delta": -0.008530529466577064,
+        "high_delta": -0.013893116093115832
+      },
+      {
+        "parameter": "style_mix.split",
+        "range": [
+          0.10400000000000001,
+          0.156
+        ],
+        "baseline_value": 0.13,
+        "grid": [
+          {
+            "value": 0.10400000000000001,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.650118732394462,
+            "known_subset_mean": 0.650118732394462,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.4015512036219346,
+              "upper": 0.7816138746080503
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.5961158558512042,
+              "upper": 0.7030197298871463,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.013781756024017372,
+              "known_subset_mean": -0.013781756024017372,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.11792038029084997,
+                "upper": 0.01292934051954283
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.04637901505959762,
+                "upper": 0.006788281904659842,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.13,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.156,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6509148092751067,
+            "known_subset_mean": 0.6509148092751067,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.34698077785111603,
+              "upper": 0.7914934653197704
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.591149134937288,
+              "upper": 0.705487566894833,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.01298567914337272,
+              "known_subset_mean": -0.01298567914337272,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.0754112633090121,
+                "upper": 0.013849597680149529
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.024428632241539284,
+                "upper": -0.004145255016902998,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": 0.015309170781627957,
+          "known_subset_mean": 0.015309170781627957,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": -1.250191205428533,
+            "upper": 2.1784320305396685
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": -0.49328036727859353,
+            "upper": 0.6412881786269626,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.650118732394462,
+          0.6639004884184795
+        ],
+        "tornado_impact": 0.013781756024017433,
+        "low_delta": -0.013781756024017433,
+        "high_delta": -0.012985679143372786
+      },
+      {
+        "parameter": "style_mix.roam_gank",
+        "range": [
+          0.10400000000000001,
+          0.156
+        ],
+        "baseline_value": 0.13,
+        "grid": [
+          {
+            "value": 0.10400000000000001,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6612492066728347,
+            "known_subset_mean": 0.6612492066728347,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.4015512036219346,
+              "upper": 0.7816138746080503
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6087175856513571,
+              "upper": 0.7138570854730989,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.0026512817456447292,
+              "known_subset_mean": -0.0026512817456447292,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.11792038029084997,
+                "upper": 0.09884969340292017
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.03979085732125523,
+                "upper": 0.028291102243672282,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.13,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.156,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6385214128177245,
+            "known_subset_mean": 0.6385214128177245,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.34698077785111603,
+              "upper": 0.767585344454802
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.581122661468013,
+              "upper": 0.685251709963696,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.025379075600754974,
+              "known_subset_mean": -0.025379075600754974,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.08569480930121261,
+                "upper": 0.013849597680149529
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.039508958384602395,
+                "upper": -0.01310179543167704,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": -0.4370729587521202,
+          "known_subset_mean": -0.4370729587521202,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": -2.133804040063244,
+            "upper": 0.8112933548749248
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": -1.110987968290925,
+            "upper": 0.26216749151584773,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.6385214128177245,
+          0.6639004884184795
+        ],
+        "tornado_impact": 0.02537907560075503,
+        "low_delta": -0.0026512817456447735,
+        "high_delta": -0.02537907560075503
+      },
+      {
+        "parameter": "p_contest.a",
+        "range": [
+          0.5923809523809525,
+          0.8885714285714286
+        ],
+        "baseline_value": 0.7404761904761905,
+        "grid": [
+          {
+            "value": 0.5923809523809525,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6594844380549436,
+            "known_subset_mean": 0.6594844380549436,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6034337296946366,
+              "upper": 0.7148222033876646,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.0044160503635359005,
+              "known_subset_mean": -0.0044160503635359005,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.0044160503635359005,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.013248151090607702,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.7404761904761905,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.8885714285714286,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6691367101696379,
+            "known_subset_mean": 0.6691367101696379,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.4783621930169737,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6183487574944363,
+              "upper": 0.7131943074808572,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.005236221751158435,
+              "known_subset_mean": 0.005236221751158435,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.0036945238826578963,
+                "upper": 0.008930745633816458
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.007389047765315793,
+                "upper": 0.026792236901448996,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": 0.03258805697887156,
+          "known_subset_mean": 0.03258805697887156,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": -0.012473472915726008,
+            "upper": 0.31343243623166706
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": -0.024946945831452037,
+            "upper": 0.10780162197156287,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.6594844380549436,
+          0.6691367101696379
+        ],
+        "tornado_impact": 0.009652272114694327,
+        "low_delta": -0.004416050363535873,
+        "high_delta": 0.005236221751158454
+      },
+      {
+        "parameter": "p_contest.b",
+        "range": [
+          0.19047619047619047,
+          0.2857142857142857
+        ],
+        "baseline_value": 0.23809523809523808,
+        "grid": [
+          {
+            "value": 0.19047619047619047,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.23809523809523808,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.2857142857142857,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": 0.0,
+          "known_subset_mean": 0.0,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": 0.0,
+            "upper": 0.0,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.6639004884184795,
+          0.6639004884184795
+        ],
+        "tornado_impact": 0.0,
+        "low_delta": 0.0,
+        "high_delta": 0.0
+      },
+      {
+        "parameter": "volatility",
+        "range": [
+          0.27999999999999997,
+          0.42
+        ],
+        "baseline_value": 0.35,
+        "grid": [
+          {
+            "value": 0.27999999999999997,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6622621309210952,
+            "known_subset_mean": 0.6622621309210952,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.4278908915882912,
+              "upper": 0.7992890291566875
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.60680887523518,
+              "upper": 0.7139248478189525,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.0016383574973841742,
+              "known_subset_mean": -0.0016383574973841742,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.0032524610978313176,
+                "upper": 0.003253549143647733
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.008144972196926267,
+                "upper": 0.001844577918490576,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.35,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.42,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6583549439153517,
+            "known_subset_mean": 0.6583549439153517,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42501094270346146,
+              "upper": 0.7945109360698814
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6047644290249192,
+              "upper": 0.7112714281841803,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.0055455445031277195,
+              "known_subset_mean": -0.0055455445031277195,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.007238094279576196,
+                "upper": -0.0006050024619091041
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.013135631124556683,
+                "upper": -0.0014373524904852557,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": -0.027908478612453897,
+          "known_subset_mean": -0.027908478612453897,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": -0.0749403101658852,
+            "upper": 0.02081636038499065
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": -0.08394195983621576,
+            "upper": 0.027367790298475834,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.6583549439153517,
+          0.6639004884184795
+        ],
+        "tornado_impact": 0.0055455445031278305,
+        "low_delta": -0.0016383574973842796,
+        "high_delta": -0.0055455445031278305
+      },
+      {
+        "parameter": "adc_dawn_ready_multiplier",
+        "range": [
+          1.0,
+          1.5
+        ],
+        "baseline_value": 1.25,
+        "grid": [
+          {
+            "value": 1.0,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6398747053165138,
+            "known_subset_mean": 0.6398747053165138,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.3383167536069152,
+              "upper": 0.7849806655145272
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.5775007609161531,
+              "upper": 0.6990717088019326,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.024025783101965556,
+              "known_subset_mean": -0.024025783101965556,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.10548202358604195,
+                "upper": -0.012069907996966965
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.0374525215576928,
+                "upper": -0.01454809062405121,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 1.25,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 1.5,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6787348840100045,
+            "known_subset_mean": 0.6787348840100045,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.44413463979243056,
+              "upper": 0.8086152223113072
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6220836996236666,
+              "upper": 0.7304406872966765,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.014834395591525055,
+              "known_subset_mean": 0.014834395591525055,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.011564648799813098,
+                "upper": 0.017879963339021396
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.013823979221779255,
+                "upper": 0.01586450161123262,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": 0.07772035738698121,
+          "known_subset_mean": 0.07772035738698121,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": 0.04726911359356013,
+            "upper": 0.24384776217281837
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": 0.0574348645428998,
+            "upper": 0.10497485802701292,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.6398747053165138,
+          0.6787348840100045
+        ],
+        "tornado_impact": 0.03886017869349068,
+        "low_delta": -0.02402578310196568,
+        "high_delta": 0.014834395591524996
+      },
+      {
+        "parameter": "adc_dawn_not_ready_multiplier",
+        "range": [
+          0.6400000000000001,
+          0.96
+        ],
+        "baseline_value": 0.8,
+        "grid": [
+          {
+            "value": 0.6400000000000001,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6731599254423771,
+            "known_subset_mean": 0.6731599254423771,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.43739530006772454,
+              "upper": 0.8042984654448934
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6161322306966255,
+              "upper": 0.7252742000426925,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.009259437023897688,
+              "known_subset_mean": 0.009259437023897688,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.007247891933399181,
+                "upper": 0.011122984997224864
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.008638955403892108,
+                "upper": 0.009889152099906534,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.8,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.96,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6500588717175306,
+            "known_subset_mean": 0.6500588717175306,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.41542462872371594,
+              "upper": 0.7896074077271424
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.5935424444799628,
+              "upper": 0.7060015704643507,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.013841616700948762,
+              "known_subset_mean": -0.013841616700948762,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.015581137857648086,
+                "upper": -0.007443165784351684
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.022719595135004527,
+                "upper": -0.008888045078577779,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": -0.07219079289014518,
+          "known_subset_mean": -0.07219079289014518,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": -0.08347872068842332,
+            "upper": -0.04590955536797147
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": -0.09976827205076606,
+            "upper": -0.055105546561345496,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.6500588717175306,
+          0.6731599254423771
+        ],
+        "tornado_impact": 0.0231010537248465,
+        "low_delta": 0.009259437023897643,
+        "high_delta": -0.013841616700948856
+      },
+      {
+        "parameter": "storm_high_ground_scale",
+        "range": [
+          0.2,
+          0.3
+        ],
+        "baseline_value": 0.25,
+        "grid": [
+          {
+            "value": 0.2,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.65371566465628,
+            "known_subset_mean": 0.65371566465628,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.41449672093631584,
+              "upper": 0.7889652060039805
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.5955029118865398,
+              "upper": 0.707141321112943,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.010184823762199539,
+              "known_subset_mean": -0.010184823762199539,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.01209129246712693,
+                "upper": -0.008085367507513645
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.010831155978263615,
+                "upper": -0.009541376627452261,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.25,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.3,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6739418335526907,
+            "known_subset_mean": 0.6739418335526907,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.43833577387914163,
+              "upper": 0.804906036971754
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6169659492746988,
+              "upper": 0.7259996961969243,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.010041345134211172,
+              "known_subset_mean": 0.010041345134211172,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.007855463460259882,
+                "upper": 0.012067953745691331
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.009366915670870316,
+                "upper": 0.010726250416289895,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": 0.20226168896410712,
+          "known_subset_mean": 0.20226168896410712,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": 0.1594083096777353,
+            "upper": 0.24159246212818267
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": 0.18908292298322582,
+            "upper": 0.21553242311888146,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.65371566465628,
+          0.6739418335526907
+        ],
+        "tornado_impact": 0.020226168896410712,
+        "low_delta": -0.010184823762199535,
+        "high_delta": 0.010041345134211177
+      },
+      {
+        "parameter": "storm_backdoor_scale",
+        "range": [
+          0.32000000000000006,
+          0.48
+        ],
+        "baseline_value": 0.4,
+        "grid": [
+          {
+            "value": 0.32000000000000006,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6573983113258961,
+            "known_subset_mean": 0.6573983113258961,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.41876230715697976,
+              "upper": 0.7919024344331247
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.5993948654495778,
+              "upper": 0.7105890351326938,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": -0.006502177092583309,
+              "known_subset_mean": -0.006502177092583309,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": -0.0077366001910941975,
+                "upper": -0.005148139078369434
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": -0.006919919691905476,
+                "upper": -0.006086676099376801,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.4,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6639004884184795,
+            "known_subset_mean": 0.6639004884184795,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.42637452953545385,
+              "upper": 0.7970505735114941
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6062837972241052,
+              "upper": 0.7166611175896747,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.0,
+              "known_subset_mean": 0.0,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0,
+                "upper": 0.0
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.0,
+                "upper": 0.0,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          },
+          {
+            "value": 0.48,
+            "status": "synthetic",
+            "n": 20,
+            "known_n": 20,
+            "unknown_n": 0,
+            "mean": 0.6703438880068793,
+            "known_subset_mean": 0.6703438880068793,
+            "simulation_interval": {
+              "kind": "synthetic_seed_response_quantiles",
+              "level": 0.9,
+              "lower": 0.4340209344869755,
+              "upper": 0.8021045332339619
+            },
+            "mean_interval": {
+              "method": "iid_percentile_bootstrap_mean",
+              "level": 0.95,
+              "resamples": 200,
+              "seed": 0,
+              "lower": 0.6131322813824099,
+              "upper": 0.7226589629546886,
+              "scope": "synthetic_sampling_only",
+              "n": 20
+            },
+            "paired_delta": {
+              "status": "synthetic",
+              "n": 20,
+              "known_n": 20,
+              "unknown_n": 0,
+              "mean": 0.006443399588399776,
+              "known_subset_mean": 0.006443399588399776,
+              "simulation_interval": {
+                "kind": "synthetic_seed_response_quantiles",
+                "level": 0.9,
+                "lower": 0.0050539597224677265,
+                "upper": 0.007727038640827988
+              },
+              "mean_interval": {
+                "method": "iid_percentile_bootstrap_mean",
+                "level": 0.95,
+                "resamples": 200,
+                "seed": 0,
+                "lower": 0.006015207011451326,
+                "upper": 0.006876952159801163,
+                "scope": "synthetic_sampling_only",
+                "n": 20
+              }
+            }
+          }
+        ],
+        "status": "synthetic",
+        "first_order": {
+          "method": "paired_endpoint_finite_difference",
+          "status": "synthetic",
+          "n": 20,
+          "known_n": 20,
+          "unknown_n": 0,
+          "mean": 0.08090985425614432,
+          "known_subset_mean": 0.08090985425614432,
+          "simulation_interval": {
+            "kind": "synthetic_seed_response_quantiles",
+            "level": 0.9,
+            "lower": 0.0637631175052323,
+            "upper": 0.0966477426995137
+          },
+          "mean_interval": {
+            "method": "iid_percentile_bootstrap_mean",
+            "level": 0.95,
+            "resamples": 200,
+            "seed": 0,
+            "lower": 0.07563676944267583,
+            "upper": 0.0862198413637351,
+            "scope": "synthetic_sampling_only",
+            "n": 20
+          }
+        },
+        "output_range": [
+          0.6573983113258961,
+          0.6703438880068793
+        ],
+        "tornado_impact": 0.012945576680983173,
+        "low_delta": -0.006502177092583383,
+        "high_delta": 0.00644339958839979
+      }
+    ],
+    "tornado": [
+      {
+        "rank": 1,
+        "parameter": "style_mix.farm",
+        "range": [
+          0.16000000000000003,
+          0.24
+        ],
+        "tornado_impact": 0.08530715359663055,
+        "output_range": [
+          0.6068685254297081,
+          0.6921756790263387
+        ],
+        "low_delta": -0.057031962988771334,
+        "high_delta": 0.028275190607859213
+      },
+      {
+        "rank": 2,
+        "parameter": "adc_dawn_ready_multiplier",
+        "range": [
+          1.0,
+          1.5
+        ],
+        "tornado_impact": 0.03886017869349068,
+        "output_range": [
+          0.6398747053165138,
+          0.6787348840100045
+        ],
+        "low_delta": -0.02402578310196568,
+        "high_delta": 0.014834395591524996
+      },
+      {
+        "rank": 3,
+        "parameter": "style_mix.macro",
+        "range": [
+          0.20800000000000002,
+          0.312
+        ],
+        "tornado_impact": 0.03794434351465992,
+        "output_range": [
+          0.6259561449038196,
+          0.6639004884184795
+        ],
+        "low_delta": -0.0004987971962977511,
+        "high_delta": -0.03794434351465992
+      },
+      {
+        "rank": 4,
+        "parameter": "style_mix.fight",
+        "range": [
+          0.136,
+          0.20400000000000001
+        ],
+        "tornado_impact": 0.03622909872449964,
+        "output_range": [
+          0.636241458387579,
+          0.6724705571120786
+        ],
+        "low_delta": 0.008570068693599109,
+        "high_delta": -0.027659030030900533
+      },
+      {
+        "rank": 5,
+        "parameter": "style_mix.roam_gank",
+        "range": [
+          0.10400000000000001,
+          0.156
+        ],
+        "tornado_impact": 0.02537907560075503,
+        "output_range": [
+          0.6385214128177245,
+          0.6639004884184795
+        ],
+        "low_delta": -0.0026512817456447735,
+        "high_delta": -0.02537907560075503
+      },
+      {
+        "rank": 6,
+        "parameter": "adc_dawn_not_ready_multiplier",
+        "range": [
+          0.6400000000000001,
+          0.96
+        ],
+        "tornado_impact": 0.0231010537248465,
+        "output_range": [
+          0.6500588717175306,
+          0.6731599254423771
+        ],
+        "low_delta": 0.009259437023897643,
+        "high_delta": -0.013841616700948856
+      },
+      {
+        "rank": 7,
+        "parameter": "storm_high_ground_scale",
+        "range": [
+          0.2,
+          0.3
+        ],
+        "tornado_impact": 0.020226168896410712,
+        "output_range": [
+          0.65371566465628,
+          0.6739418335526907
+        ],
+        "low_delta": -0.010184823762199535,
+        "high_delta": 0.010041345134211177
+      },
+      {
+        "rank": 8,
+        "parameter": "style_mix.group",
+        "range": [
+          0.08800000000000001,
+          0.132
+        ],
+        "tornado_impact": 0.013893116093115832,
+        "output_range": [
+          0.6500073723253637,
+          0.6639004884184795
+        ],
+        "low_delta": -0.008530529466577064,
+        "high_delta": -0.013893116093115832
+      },
+      {
+        "rank": 9,
+        "parameter": "style_mix.split",
+        "range": [
+          0.10400000000000001,
+          0.156
+        ],
+        "tornado_impact": 0.013781756024017433,
+        "output_range": [
+          0.650118732394462,
+          0.6639004884184795
+        ],
+        "low_delta": -0.013781756024017433,
+        "high_delta": -0.012985679143372786
+      },
+      {
+        "rank": 10,
+        "parameter": "storm_backdoor_scale",
+        "range": [
+          0.32000000000000006,
+          0.48
+        ],
+        "tornado_impact": 0.012945576680983173,
+        "output_range": [
+          0.6573983113258961,
+          0.6703438880068793
+        ],
+        "low_delta": -0.006502177092583383,
+        "high_delta": 0.00644339958839979
+      },
+      {
+        "rank": 11,
+        "parameter": "p_contest.a",
+        "range": [
+          0.5923809523809525,
+          0.8885714285714286
+        ],
+        "tornado_impact": 0.009652272114694327,
+        "output_range": [
+          0.6594844380549436,
+          0.6691367101696379
+        ],
+        "low_delta": -0.004416050363535873,
+        "high_delta": 0.005236221751158454
+      },
+      {
+        "rank": 12,
+        "parameter": "volatility",
+        "range": [
+          0.27999999999999997,
+          0.42
+        ],
+        "tornado_impact": 0.0055455445031278305,
+        "output_range": [
+          0.6583549439153517,
+          0.6639004884184795
+        ],
+        "low_delta": -0.0016383574973842796,
+        "high_delta": -0.0055455445031278305
+      },
+      {
+        "rank": 13,
+        "parameter": "p_contest.b",
+        "range": [
+          0.19047619047619047,
+          0.2857142857142857
+        ],
+        "tornado_impact": 0.0,
+        "output_range": [
+          0.6639004884184795,
+          0.6639004884184795
+        ],
+        "low_delta": 0.0,
+        "high_delta": 0.0
+      }
+    ],
+    "limitations": [
+      "One-at-a-time slopes and ranking are range/scenario dependent, not Sobol indices or causal effects.",
+      "No interactions or joint parameter uncertainty are estimated.",
+      "90% seed quantiles describe synthetic variability, not confidence in real outcomes.",
+      "95% bootstrap mean intervals resample seed units; paired contrasts use the same seeds.",
+      "Common seeds do not guarantee identical downstream event streams after branch changes."
+    ],
+    "server": "cn",
+    "model_patch": "synthetic-mode-v2",
+    "game_patch": null,
+    "mode": "competitive",
+    "horizon_s": 1500,
+    "style_constraint": "one blue share changes; other blue shares rescaled proportionally; red prior fixed"
+  },
+  "backtest": {
+    "schema_version": "synthetic-walk-forward-v1",
+    "synthetic": true,
+    "calibrated": false,
+    "active_by_default": false,
+    "status": "candidate",
+    "source": "synthetic walk-forward Bernoulli fixture seed=20261111",
+    "server": "cn",
+    "model_patch": "synthetic-mode-v2",
+    "game_patch": null,
+    "mode": "competitive",
+    "warning": "synthetic / candidate / 未校准；仅检验工具与合成假设，不代表真实比赛精度",
+    "real_accuracy_claim": null,
+    "config": {
+      "min_train_periods": 40,
+      "test_periods": 20,
+      "step_periods": 20,
+      "gap_periods": 0,
+      "max_train_periods": null
+    },
+    "folds": [
+      {
+        "fold": 0,
+        "train_period_range": [
+          0,
+          39
+        ],
+        "test_period_range": [
+          40,
+          59
+        ],
+        "train_ids": [
+          "synthetic-0",
+          "synthetic-1",
+          "synthetic-2",
+          "synthetic-3",
+          "synthetic-4",
+          "synthetic-5",
+          "synthetic-6",
+          "synthetic-7",
+          "synthetic-8",
+          "synthetic-9",
+          "synthetic-10",
+          "synthetic-11",
+          "synthetic-12",
+          "synthetic-13",
+          "synthetic-14",
+          "synthetic-15",
+          "synthetic-16",
+          "synthetic-17",
+          "synthetic-18",
+          "synthetic-19",
+          "synthetic-20",
+          "synthetic-21",
+          "synthetic-22",
+          "synthetic-23",
+          "synthetic-24",
+          "synthetic-25",
+          "synthetic-26",
+          "synthetic-27",
+          "synthetic-28",
+          "synthetic-29",
+          "synthetic-30",
+          "synthetic-31",
+          "synthetic-32",
+          "synthetic-33",
+          "synthetic-34",
+          "synthetic-35",
+          "synthetic-36",
+          "synthetic-37",
+          "synthetic-38",
+          "synthetic-39"
+        ],
+        "test_ids": [
+          "synthetic-40",
+          "synthetic-41",
+          "synthetic-42",
+          "synthetic-43",
+          "synthetic-44",
+          "synthetic-45",
+          "synthetic-46",
+          "synthetic-47",
+          "synthetic-48",
+          "synthetic-49",
+          "synthetic-50",
+          "synthetic-51",
+          "synthetic-52",
+          "synthetic-53",
+          "synthetic-54",
+          "synthetic-55",
+          "synthetic-56",
+          "synthetic-57",
+          "synthetic-58",
+          "synthetic-59"
+        ],
+        "training_count": 40,
+        "test_count": 20,
+        "purged_training_count": 0,
+        "purge_reasons": {
+          "test_group_overlap": 0,
+          "missing_label": 0,
+          "label_not_yet_available": 0
+        },
+        "predictions": [
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5
+        ],
+        "outcomes": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "diagnostics": {
+          "schema_version": "synthetic-calibration-v1",
+          "synthetic": true,
+          "active_by_default": false,
+          "calibrated": false,
+          "status": "candidate",
+          "source": "synthetic walk-forward Bernoulli fixture seed=20261111",
+          "warning": "synthetic / candidate / 未校准；仅检验工具与合成假设，不代表真实比赛精度",
+          "real_accuracy_claim": null,
+          "empirical_sample_size": 0,
+          "coverage": {
+            "total": 20,
+            "evaluated": 20,
+            "missing_probability": 0,
+            "missing_outcome": 0,
+            "excluded": 0,
+            "fraction": 1.0
+          },
+          "metrics": {
+            "brier": 0.25,
+            "log_loss": 0.6931471805599453,
+            "ece": 0.04999999999999999
+          },
+          "binning": {
+            "method": "equal_width",
+            "n_bins": 10
+          },
+          "log_loss_epsilon": 1e-15,
+          "reliability_bins": [
+            {
+              "index": 0,
+              "lower": 0.0,
+              "upper": 0.1,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 1,
+              "lower": 0.1,
+              "upper": 0.2,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 2,
+              "lower": 0.2,
+              "upper": 0.3,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 3,
+              "lower": 0.3,
+              "upper": 0.4,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 4,
+              "lower": 0.4,
+              "upper": 0.5,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 5,
+              "lower": 0.5,
+              "upper": 0.6,
+              "upper_inclusive": false,
+              "count": 20,
+              "mean_probability": 0.5,
+              "outcome_rate": 0.45,
+              "absolute_gap": 0.04999999999999999,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": 0.2581978582556243,
+                "upper": 0.6579146575496577,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 6,
+              "lower": 0.6,
+              "upper": 0.7,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 7,
+              "lower": 0.7,
+              "upper": 0.8,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 8,
+              "lower": 0.8,
+              "upper": 0.9,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 9,
+              "lower": 0.9,
+              "upper": 1.0,
+              "upper_inclusive": true,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            }
+          ],
+          "calibration_curve": [
+            {
+              "x": 0.5,
+              "y": 0.45,
+              "count": 20,
+              "bin_index": 5,
+              "y_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": 0.2581978582556243,
+                "upper": 0.6579146575496577,
+                "scope": "synthetic_iid_labels_only"
+              }
+            }
+          ],
+          "limitations": [
+            "ECE depends on binning and sample size; low ECE is not proof of accuracy.",
+            "Wilson intervals assume independent synthetic binary labels; no real-data coverage claim.",
+            "Diagnostics do not fit or deploy calibrated parameters."
+          ]
+        }
+      },
+      {
+        "fold": 1,
+        "train_period_range": [
+          0,
+          59
+        ],
+        "test_period_range": [
+          60,
+          79
+        ],
+        "train_ids": [
+          "synthetic-0",
+          "synthetic-1",
+          "synthetic-2",
+          "synthetic-3",
+          "synthetic-4",
+          "synthetic-5",
+          "synthetic-6",
+          "synthetic-7",
+          "synthetic-8",
+          "synthetic-9",
+          "synthetic-10",
+          "synthetic-11",
+          "synthetic-12",
+          "synthetic-13",
+          "synthetic-14",
+          "synthetic-15",
+          "synthetic-16",
+          "synthetic-17",
+          "synthetic-18",
+          "synthetic-19",
+          "synthetic-20",
+          "synthetic-21",
+          "synthetic-22",
+          "synthetic-23",
+          "synthetic-24",
+          "synthetic-25",
+          "synthetic-26",
+          "synthetic-27",
+          "synthetic-28",
+          "synthetic-29",
+          "synthetic-30",
+          "synthetic-31",
+          "synthetic-32",
+          "synthetic-33",
+          "synthetic-34",
+          "synthetic-35",
+          "synthetic-36",
+          "synthetic-37",
+          "synthetic-38",
+          "synthetic-39",
+          "synthetic-40",
+          "synthetic-41",
+          "synthetic-42",
+          "synthetic-43",
+          "synthetic-44",
+          "synthetic-45",
+          "synthetic-46",
+          "synthetic-47",
+          "synthetic-48",
+          "synthetic-49",
+          "synthetic-50",
+          "synthetic-51",
+          "synthetic-52",
+          "synthetic-53",
+          "synthetic-54",
+          "synthetic-55",
+          "synthetic-56",
+          "synthetic-57",
+          "synthetic-58",
+          "synthetic-59"
+        ],
+        "test_ids": [
+          "synthetic-60",
+          "synthetic-61",
+          "synthetic-62",
+          "synthetic-63",
+          "synthetic-64",
+          "synthetic-65",
+          "synthetic-66",
+          "synthetic-67",
+          "synthetic-68",
+          "synthetic-69",
+          "synthetic-70",
+          "synthetic-71",
+          "synthetic-72",
+          "synthetic-73",
+          "synthetic-74",
+          "synthetic-75",
+          "synthetic-76",
+          "synthetic-77",
+          "synthetic-78",
+          "synthetic-79"
+        ],
+        "training_count": 60,
+        "test_count": 20,
+        "purged_training_count": 0,
+        "purge_reasons": {
+          "test_group_overlap": 0,
+          "missing_label": 0,
+          "label_not_yet_available": 0
+        },
+        "predictions": [
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355,
+          0.4838709677419355
+        ],
+        "outcomes": [
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        "diagnostics": {
+          "schema_version": "synthetic-calibration-v1",
+          "synthetic": true,
+          "active_by_default": false,
+          "calibrated": false,
+          "status": "candidate",
+          "source": "synthetic walk-forward Bernoulli fixture seed=20261111",
+          "warning": "synthetic / candidate / 未校准；仅检验工具与合成假设，不代表真实比赛精度",
+          "real_accuracy_claim": null,
+          "empirical_sample_size": 0,
+          "coverage": {
+            "total": 20,
+            "evaluated": 20,
+            "missing_probability": 0,
+            "missing_outcome": 0,
+            "excluded": 0,
+            "fraction": 1.0
+          },
+          "metrics": {
+            "brier": 0.2502601456815817,
+            "log_loss": 0.6936677428141506,
+            "ece": 0.016129032258064502
+          },
+          "binning": {
+            "method": "equal_width",
+            "n_bins": 10
+          },
+          "log_loss_epsilon": 1e-15,
+          "reliability_bins": [
+            {
+              "index": 0,
+              "lower": 0.0,
+              "upper": 0.1,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 1,
+              "lower": 0.1,
+              "upper": 0.2,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 2,
+              "lower": 0.2,
+              "upper": 0.3,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 3,
+              "lower": 0.3,
+              "upper": 0.4,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 4,
+              "lower": 0.4,
+              "upper": 0.5,
+              "upper_inclusive": false,
+              "count": 20,
+              "mean_probability": 0.4838709677419355,
+              "outcome_rate": 0.5,
+              "absolute_gap": 0.016129032258064502,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": 0.2992980081982123,
+                "upper": 0.7007019918017877,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 5,
+              "lower": 0.5,
+              "upper": 0.6,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 6,
+              "lower": 0.6,
+              "upper": 0.7,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 7,
+              "lower": 0.7,
+              "upper": 0.8,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 8,
+              "lower": 0.8,
+              "upper": 0.9,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 9,
+              "lower": 0.9,
+              "upper": 1.0,
+              "upper_inclusive": true,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            }
+          ],
+          "calibration_curve": [
+            {
+              "x": 0.4838709677419355,
+              "y": 0.5,
+              "count": 20,
+              "bin_index": 4,
+              "y_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": 0.2992980081982123,
+                "upper": 0.7007019918017877,
+                "scope": "synthetic_iid_labels_only"
+              }
+            }
+          ],
+          "limitations": [
+            "ECE depends on binning and sample size; low ECE is not proof of accuracy.",
+            "Wilson intervals assume independent synthetic binary labels; no real-data coverage claim.",
+            "Diagnostics do not fit or deploy calibrated parameters."
+          ]
+        }
+      },
+      {
+        "fold": 2,
+        "train_period_range": [
+          0,
+          79
+        ],
+        "test_period_range": [
+          80,
+          99
+        ],
+        "train_ids": [
+          "synthetic-0",
+          "synthetic-1",
+          "synthetic-2",
+          "synthetic-3",
+          "synthetic-4",
+          "synthetic-5",
+          "synthetic-6",
+          "synthetic-7",
+          "synthetic-8",
+          "synthetic-9",
+          "synthetic-10",
+          "synthetic-11",
+          "synthetic-12",
+          "synthetic-13",
+          "synthetic-14",
+          "synthetic-15",
+          "synthetic-16",
+          "synthetic-17",
+          "synthetic-18",
+          "synthetic-19",
+          "synthetic-20",
+          "synthetic-21",
+          "synthetic-22",
+          "synthetic-23",
+          "synthetic-24",
+          "synthetic-25",
+          "synthetic-26",
+          "synthetic-27",
+          "synthetic-28",
+          "synthetic-29",
+          "synthetic-30",
+          "synthetic-31",
+          "synthetic-32",
+          "synthetic-33",
+          "synthetic-34",
+          "synthetic-35",
+          "synthetic-36",
+          "synthetic-37",
+          "synthetic-38",
+          "synthetic-39",
+          "synthetic-40",
+          "synthetic-41",
+          "synthetic-42",
+          "synthetic-43",
+          "synthetic-44",
+          "synthetic-45",
+          "synthetic-46",
+          "synthetic-47",
+          "synthetic-48",
+          "synthetic-49",
+          "synthetic-50",
+          "synthetic-51",
+          "synthetic-52",
+          "synthetic-53",
+          "synthetic-54",
+          "synthetic-55",
+          "synthetic-56",
+          "synthetic-57",
+          "synthetic-58",
+          "synthetic-59",
+          "synthetic-60",
+          "synthetic-61",
+          "synthetic-62",
+          "synthetic-63",
+          "synthetic-64",
+          "synthetic-65",
+          "synthetic-66",
+          "synthetic-67",
+          "synthetic-68",
+          "synthetic-69",
+          "synthetic-70",
+          "synthetic-71",
+          "synthetic-72",
+          "synthetic-73",
+          "synthetic-74",
+          "synthetic-75",
+          "synthetic-76",
+          "synthetic-77",
+          "synthetic-78",
+          "synthetic-79"
+        ],
+        "test_ids": [
+          "synthetic-80",
+          "synthetic-81",
+          "synthetic-82",
+          "synthetic-83",
+          "synthetic-84",
+          "synthetic-85",
+          "synthetic-86",
+          "synthetic-87",
+          "synthetic-88",
+          "synthetic-89",
+          "synthetic-90",
+          "synthetic-91",
+          "synthetic-92",
+          "synthetic-93",
+          "synthetic-94",
+          "synthetic-95",
+          "synthetic-96",
+          "synthetic-97",
+          "synthetic-98",
+          "synthetic-99"
+        ],
+        "training_count": 80,
+        "test_count": 20,
+        "purged_training_count": 0,
+        "purge_reasons": {
+          "test_group_overlap": 0,
+          "missing_label": 0,
+          "label_not_yet_available": 0
+        },
+        "predictions": [
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805,
+          0.4878048780487805
+        ],
+        "outcomes": [
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "diagnostics": {
+          "schema_version": "synthetic-calibration-v1",
+          "synthetic": true,
+          "active_by_default": false,
+          "calibrated": false,
+          "status": "candidate",
+          "source": "synthetic walk-forward Bernoulli fixture seed=20261111",
+          "warning": "synthetic / candidate / 未校准；仅检验工具与合成假设，不代表真实比赛精度",
+          "real_accuracy_claim": null,
+          "empirical_sample_size": 0,
+          "coverage": {
+            "total": 20,
+            "evaluated": 20,
+            "missing_probability": 0,
+            "missing_outcome": 0,
+            "excluded": 0,
+            "fraction": 1.0
+          },
+          "metrics": {
+            "brier": 0.2501487209994051,
+            "log_loss": 0.6934447110656008,
+            "ece": 0.012195121951219523
+          },
+          "binning": {
+            "method": "equal_width",
+            "n_bins": 10
+          },
+          "log_loss_epsilon": 1e-15,
+          "reliability_bins": [
+            {
+              "index": 0,
+              "lower": 0.0,
+              "upper": 0.1,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 1,
+              "lower": 0.1,
+              "upper": 0.2,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 2,
+              "lower": 0.2,
+              "upper": 0.3,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 3,
+              "lower": 0.3,
+              "upper": 0.4,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 4,
+              "lower": 0.4,
+              "upper": 0.5,
+              "upper_inclusive": false,
+              "count": 20,
+              "mean_probability": 0.4878048780487805,
+              "outcome_rate": 0.5,
+              "absolute_gap": 0.012195121951219523,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": 0.2992980081982123,
+                "upper": 0.7007019918017877,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 5,
+              "lower": 0.5,
+              "upper": 0.6,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 6,
+              "lower": 0.6,
+              "upper": 0.7,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 7,
+              "lower": 0.7,
+              "upper": 0.8,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 8,
+              "lower": 0.8,
+              "upper": 0.9,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 9,
+              "lower": 0.9,
+              "upper": 1.0,
+              "upper_inclusive": true,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            }
+          ],
+          "calibration_curve": [
+            {
+              "x": 0.4878048780487805,
+              "y": 0.5,
+              "count": 20,
+              "bin_index": 4,
+              "y_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": 0.2992980081982123,
+                "upper": 0.7007019918017877,
+                "scope": "synthetic_iid_labels_only"
+              }
+            }
+          ],
+          "limitations": [
+            "ECE depends on binning and sample size; low ECE is not proof of accuracy.",
+            "Wilson intervals assume independent synthetic binary labels; no real-data coverage claim.",
+            "Diagnostics do not fit or deploy calibrated parameters."
+          ]
+        }
+      },
+      {
+        "fold": 3,
+        "train_period_range": [
+          0,
+          99
+        ],
+        "test_period_range": [
+          100,
+          119
+        ],
+        "train_ids": [
+          "synthetic-0",
+          "synthetic-1",
+          "synthetic-2",
+          "synthetic-3",
+          "synthetic-4",
+          "synthetic-5",
+          "synthetic-6",
+          "synthetic-7",
+          "synthetic-8",
+          "synthetic-9",
+          "synthetic-10",
+          "synthetic-11",
+          "synthetic-12",
+          "synthetic-13",
+          "synthetic-14",
+          "synthetic-15",
+          "synthetic-16",
+          "synthetic-17",
+          "synthetic-18",
+          "synthetic-19",
+          "synthetic-20",
+          "synthetic-21",
+          "synthetic-22",
+          "synthetic-23",
+          "synthetic-24",
+          "synthetic-25",
+          "synthetic-26",
+          "synthetic-27",
+          "synthetic-28",
+          "synthetic-29",
+          "synthetic-30",
+          "synthetic-31",
+          "synthetic-32",
+          "synthetic-33",
+          "synthetic-34",
+          "synthetic-35",
+          "synthetic-36",
+          "synthetic-37",
+          "synthetic-38",
+          "synthetic-39",
+          "synthetic-40",
+          "synthetic-41",
+          "synthetic-42",
+          "synthetic-43",
+          "synthetic-44",
+          "synthetic-45",
+          "synthetic-46",
+          "synthetic-47",
+          "synthetic-48",
+          "synthetic-49",
+          "synthetic-50",
+          "synthetic-51",
+          "synthetic-52",
+          "synthetic-53",
+          "synthetic-54",
+          "synthetic-55",
+          "synthetic-56",
+          "synthetic-57",
+          "synthetic-58",
+          "synthetic-59",
+          "synthetic-60",
+          "synthetic-61",
+          "synthetic-62",
+          "synthetic-63",
+          "synthetic-64",
+          "synthetic-65",
+          "synthetic-66",
+          "synthetic-67",
+          "synthetic-68",
+          "synthetic-69",
+          "synthetic-70",
+          "synthetic-71",
+          "synthetic-72",
+          "synthetic-73",
+          "synthetic-74",
+          "synthetic-75",
+          "synthetic-76",
+          "synthetic-77",
+          "synthetic-78",
+          "synthetic-79",
+          "synthetic-80",
+          "synthetic-81",
+          "synthetic-82",
+          "synthetic-83",
+          "synthetic-84",
+          "synthetic-85",
+          "synthetic-86",
+          "synthetic-87",
+          "synthetic-88",
+          "synthetic-89",
+          "synthetic-90",
+          "synthetic-91",
+          "synthetic-92",
+          "synthetic-93",
+          "synthetic-94",
+          "synthetic-95",
+          "synthetic-96",
+          "synthetic-97",
+          "synthetic-98",
+          "synthetic-99"
+        ],
+        "test_ids": [
+          "synthetic-100",
+          "synthetic-101",
+          "synthetic-102",
+          "synthetic-103",
+          "synthetic-104",
+          "synthetic-105",
+          "synthetic-106",
+          "synthetic-107",
+          "synthetic-108",
+          "synthetic-109",
+          "synthetic-110",
+          "synthetic-111",
+          "synthetic-112",
+          "synthetic-113",
+          "synthetic-114",
+          "synthetic-115",
+          "synthetic-116",
+          "synthetic-117",
+          "synthetic-118",
+          "synthetic-119"
+        ],
+        "training_count": 100,
+        "test_count": 20,
+        "purged_training_count": 0,
+        "purge_reasons": {
+          "test_group_overlap": 0,
+          "missing_label": 0,
+          "label_not_yet_available": 0
+        },
+        "predictions": [
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253,
+          0.49019607843137253
+        ],
+        "outcomes": [
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        "diagnostics": {
+          "schema_version": "synthetic-calibration-v1",
+          "synthetic": true,
+          "active_by_default": false,
+          "calibrated": false,
+          "status": "candidate",
+          "source": "synthetic walk-forward Bernoulli fixture seed=20261111",
+          "warning": "synthetic / candidate / 未校准；仅检验工具与合成假设，不代表真实比赛精度",
+          "real_accuracy_claim": null,
+          "empirical_sample_size": 0,
+          "coverage": {
+            "total": 20,
+            "evaluated": 20,
+            "missing_probability": 0,
+            "missing_outcome": 0,
+            "excluded": 0,
+            "fraction": 1.0
+          },
+          "metrics": {
+            "brier": 0.25205690119184926,
+            "log_loss": 0.6972615225948126,
+            "ece": 0.1098039215686275
+          },
+          "binning": {
+            "method": "equal_width",
+            "n_bins": 10
+          },
+          "log_loss_epsilon": 1e-15,
+          "reliability_bins": [
+            {
+              "index": 0,
+              "lower": 0.0,
+              "upper": 0.1,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 1,
+              "lower": 0.1,
+              "upper": 0.2,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 2,
+              "lower": 0.2,
+              "upper": 0.3,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 3,
+              "lower": 0.3,
+              "upper": 0.4,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 4,
+              "lower": 0.4,
+              "upper": 0.5,
+              "upper_inclusive": false,
+              "count": 20,
+              "mean_probability": 0.4901960784313725,
+              "outcome_rate": 0.6,
+              "absolute_gap": 0.1098039215686275,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": 0.3865815007622531,
+                "upper": 0.781193467627183,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 5,
+              "lower": 0.5,
+              "upper": 0.6,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 6,
+              "lower": 0.6,
+              "upper": 0.7,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 7,
+              "lower": 0.7,
+              "upper": 0.8,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 8,
+              "lower": 0.8,
+              "upper": 0.9,
+              "upper_inclusive": false,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            },
+            {
+              "index": 9,
+              "lower": 0.9,
+              "upper": 1.0,
+              "upper_inclusive": true,
+              "count": 0,
+              "mean_probability": null,
+              "outcome_rate": null,
+              "absolute_gap": null,
+              "outcome_rate_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": null,
+                "upper": null,
+                "scope": "synthetic_iid_labels_only"
+              }
+            }
+          ],
+          "calibration_curve": [
+            {
+              "x": 0.4901960784313725,
+              "y": 0.6,
+              "count": 20,
+              "bin_index": 4,
+              "y_interval": {
+                "method": "wilson",
+                "level": 0.95,
+                "lower": 0.3865815007622531,
+                "upper": 0.781193467627183,
+                "scope": "synthetic_iid_labels_only"
+              }
+            }
+          ],
+          "limitations": [
+            "ECE depends on binning and sample size; low ECE is not proof of accuracy.",
+            "Wilson intervals assume independent synthetic binary labels; no real-data coverage claim.",
+            "Diagnostics do not fit or deploy calibrated parameters."
+          ]
+        }
+      }
+    ],
+    "skipped_folds": [],
+    "pooled": {
+      "schema_version": "synthetic-calibration-v1",
+      "synthetic": true,
+      "active_by_default": false,
+      "calibrated": false,
+      "status": "candidate",
+      "source": "synthetic walk-forward Bernoulli fixture seed=20261111",
+      "warning": "synthetic / candidate / 未校准；仅检验工具与合成假设，不代表真实比赛精度",
+      "real_accuracy_claim": null,
+      "empirical_sample_size": 0,
+      "coverage": {
+        "total": 80,
+        "evaluated": 80,
+        "missing_probability": 0,
+        "missing_outcome": 0,
+        "excluded": 0,
+        "fraction": 1.0
+      },
+      "metrics": {
+        "brier": 0.250616441968209,
+        "log_loss": 0.6943802892586273,
+        "ece": 0.04703201894447787
+      },
+      "binning": {
+        "method": "equal_width",
+        "n_bins": 10
+      },
+      "log_loss_epsilon": 1e-15,
+      "reliability_bins": [
+        {
+          "index": 0,
+          "lower": 0.0,
+          "upper": 0.1,
+          "upper_inclusive": false,
+          "count": 0,
+          "mean_probability": null,
+          "outcome_rate": null,
+          "absolute_gap": null,
+          "outcome_rate_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": null,
+            "upper": null,
+            "scope": "synthetic_iid_labels_only"
+          }
+        },
+        {
+          "index": 1,
+          "lower": 0.1,
+          "upper": 0.2,
+          "upper_inclusive": false,
+          "count": 0,
+          "mean_probability": null,
+          "outcome_rate": null,
+          "absolute_gap": null,
+          "outcome_rate_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": null,
+            "upper": null,
+            "scope": "synthetic_iid_labels_only"
+          }
+        },
+        {
+          "index": 2,
+          "lower": 0.2,
+          "upper": 0.3,
+          "upper_inclusive": false,
+          "count": 0,
+          "mean_probability": null,
+          "outcome_rate": null,
+          "absolute_gap": null,
+          "outcome_rate_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": null,
+            "upper": null,
+            "scope": "synthetic_iid_labels_only"
+          }
+        },
+        {
+          "index": 3,
+          "lower": 0.3,
+          "upper": 0.4,
+          "upper_inclusive": false,
+          "count": 0,
+          "mean_probability": null,
+          "outcome_rate": null,
+          "absolute_gap": null,
+          "outcome_rate_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": null,
+            "upper": null,
+            "scope": "synthetic_iid_labels_only"
+          }
+        },
+        {
+          "index": 4,
+          "lower": 0.4,
+          "upper": 0.5,
+          "upper_inclusive": false,
+          "count": 60,
+          "mean_probability": 0.48729064140736283,
+          "outcome_rate": 0.5333333333333333,
+          "absolute_gap": 0.04604269192597049,
+          "outcome_rate_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": 0.4089342702715789,
+            "upper": 0.6537209395856151,
+            "scope": "synthetic_iid_labels_only"
+          }
+        },
+        {
+          "index": 5,
+          "lower": 0.5,
+          "upper": 0.6,
+          "upper_inclusive": false,
+          "count": 20,
+          "mean_probability": 0.5,
+          "outcome_rate": 0.45,
+          "absolute_gap": 0.04999999999999999,
+          "outcome_rate_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": 0.2581978582556243,
+            "upper": 0.6579146575496577,
+            "scope": "synthetic_iid_labels_only"
+          }
+        },
+        {
+          "index": 6,
+          "lower": 0.6,
+          "upper": 0.7,
+          "upper_inclusive": false,
+          "count": 0,
+          "mean_probability": null,
+          "outcome_rate": null,
+          "absolute_gap": null,
+          "outcome_rate_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": null,
+            "upper": null,
+            "scope": "synthetic_iid_labels_only"
+          }
+        },
+        {
+          "index": 7,
+          "lower": 0.7,
+          "upper": 0.8,
+          "upper_inclusive": false,
+          "count": 0,
+          "mean_probability": null,
+          "outcome_rate": null,
+          "absolute_gap": null,
+          "outcome_rate_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": null,
+            "upper": null,
+            "scope": "synthetic_iid_labels_only"
+          }
+        },
+        {
+          "index": 8,
+          "lower": 0.8,
+          "upper": 0.9,
+          "upper_inclusive": false,
+          "count": 0,
+          "mean_probability": null,
+          "outcome_rate": null,
+          "absolute_gap": null,
+          "outcome_rate_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": null,
+            "upper": null,
+            "scope": "synthetic_iid_labels_only"
+          }
+        },
+        {
+          "index": 9,
+          "lower": 0.9,
+          "upper": 1.0,
+          "upper_inclusive": true,
+          "count": 0,
+          "mean_probability": null,
+          "outcome_rate": null,
+          "absolute_gap": null,
+          "outcome_rate_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": null,
+            "upper": null,
+            "scope": "synthetic_iid_labels_only"
+          }
+        }
+      ],
+      "calibration_curve": [
+        {
+          "x": 0.48729064140736283,
+          "y": 0.5333333333333333,
+          "count": 60,
+          "bin_index": 4,
+          "y_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": 0.4089342702715789,
+            "upper": 0.6537209395856151,
+            "scope": "synthetic_iid_labels_only"
+          }
+        },
+        {
+          "x": 0.5,
+          "y": 0.45,
+          "count": 20,
+          "bin_index": 5,
+          "y_interval": {
+            "method": "wilson",
+            "level": 0.95,
+            "lower": 0.2581978582556243,
+            "upper": 0.6579146575496577,
+            "scope": "synthetic_iid_labels_only"
+          }
+        }
+      ],
+      "limitations": [
+        "ECE depends on binning and sample size; low ECE is not proof of accuracy.",
+        "Wilson intervals assume independent synthetic binary labels; no real-data coverage claim.",
+        "Diagnostics do not fit or deploy calibrated parameters."
+      ]
+    },
+    "limitations": [
+      "No real result source: no real accuracy claim or deployment decision.",
+      "Source must supply point-in-time features and availability timestamps; semantic feature leakage cannot be inferred.",
+      "Group purging is per fold; folds can share earlier training records and are not independent replications.",
+      "No test-fold tuning; caller factory must not retain state or access future records.",
+      "Pooled diagnostics count rows, not independent matches when groups have repeated rows."
+    ]
+  }
+}

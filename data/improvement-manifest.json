@@ -1,0 +1,39 @@
+{
+  "schema": "research.improvement.web.v1",
+  "as_of": "2026-11-11",
+  "exporter": "scripts/export_improvement_web.mjs",
+  "status": "candidate",
+  "active_by_default": false,
+  "entries": [
+    {
+      "source": "data/research/hero_tags_20261111.json",
+      "href": "./data/hero-tags.json",
+      "source_sha256": "7a0c61f5499febbbd1d41507c89ada734ace5384f8d75ef107adca093822e509",
+      "export_sha256": "7a0c61f5499febbbd1d41507c89ada734ace5384f8d75ef107adca093822e509"
+    },
+    {
+      "source": "data/simulator/calibration/example_20261111.json",
+      "href": "./data/calibration-example.json",
+      "source_sha256": "d417c47d5698ca569d8c68907eb9c66aace91c35ea79069025ce9cf60b1852b8",
+      "export_sha256": "d417c47d5698ca569d8c68907eb9c66aace91c35ea79069025ce9cf60b1852b8"
+    },
+    {
+      "source": "docs/59_标准量化对标与差距_20261111.md",
+      "href": "./sources/docs/59_标准量化对标与差距_20261111.md",
+      "source_sha256": "139f8016220dcd58e5d1ebc55e67ed96d40b6a287852bc00b80b7ba898ecbeab",
+      "export_sha256": "139f8016220dcd58e5d1ebc55e67ed96d40b6a287852bc00b80b7ba898ecbeab"
+    },
+    {
+      "source": "docs/60_量化工具_20261111.md",
+      "href": "./sources/docs/60_量化工具_20261111.md",
+      "source_sha256": "26ba00ef5951ee62653def15780d8cfbfb44f956433c809a243775856b99d0ae",
+      "export_sha256": "26ba00ef5951ee62653def15780d8cfbfb44f956433c809a243775856b99d0ae"
+    },
+    {
+      "source": "docs/61_游戏理解与英雄标签_20261111.md",
+      "href": "./sources/docs/61_游戏理解与英雄标签_20261111.md",
+      "source_sha256": "6a44ff5d8cda0e1af867b9ee05d03f6716a10cd71ed82965441efd15110e91c0",
+      "export_sha256": "6a44ff5d8cda0e1af867b9ee05d03f6716a10cd71ed82965441efd15110e91c0"
+    }
+  ]
+}
