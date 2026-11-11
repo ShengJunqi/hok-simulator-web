@@ -1,0 +1,26 @@
+.research-nav{display:flex;flex-wrap:wrap;gap:10px 20px;margin:-4px 0 20px;color:var(--gold);font-size:12px}
+.research-panel{margin-top:20px;padding:20px;min-width:0;scroll-margin-top:20px}
+.research-panel .panel-heading{flex-wrap:wrap;gap:10px;margin-bottom:12px}
+.research-boundary{border-left:3px solid var(--gold);padding:8px 12px;background:#e9c17c08;font-size:12px;line-height:1.8;color:#d0c5b2}
+.research-controls{display:grid;grid-template-columns:minmax(140px,1fr) minmax(0,2fr);gap:14px;margin:18px 0 12px}
+.research-load,.research-pager{display:flex;align-items:center;justify-content:space-between;gap:12px;font-size:12px}
+.research-load p{color:var(--muted)}.research-load button{flex-shrink:0}.research-count{color:var(--gold);font-size:12px;margin:12px 0}
+.tactics-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.tactic-card{border:1px solid var(--line);background:#121c29;border-radius:10px;padding:16px;overflow-wrap:anywhere;min-width:0;font-size:12px}
+.tactic-card header{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:10px;color:var(--gold)}
+.tactic-card h3{font-size:13px;line-height:1.8;margin-bottom:12px}.tactic-card p{margin-top:8px}.tactic-card .research-card-scope{color:var(--muted);font-size:11px}
+.research-panel a{color:var(--blue);text-decoration:underline;text-underline-offset:3px}
+.research-pager{justify-content:center;margin:16px 0}.research-links{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:12px;margin-top:16px}
+.research-formula{font-size:12px;color:var(--muted);margin-top:12px;overflow-wrap:anywhere}
+.prior-table-wrap{max-width:100%;overflow:auto;border:1px solid var(--line);border-radius:8px}
+.prior-table{border-collapse:collapse;width:100%;font-size:12px;min-width:700px;table-layout:fixed}
+.prior-table caption{text-align:left;padding:10px;color:var(--muted)}
+.prior-table th,.prior-table td{border-top:1px solid var(--line);padding:12px 10px;text-align:left;vertical-align:top;overflow-wrap:anywhere}
+.prior-table thead{background:#111a26;color:var(--muted)}.prior-table th:nth-child(1){width:11%}.prior-table th:nth-child(2){width:10%}.prior-table th:nth-child(3){width:22%}.prior-table th:nth-child(4){width:33%}.prior-table th:nth-child(5){width:24%}
+.prior-score{display:block;color:var(--gold);font-size:18px;font-variant-numeric:tabular-nums}.prior-table small{display:block;color:var(--muted);line-height:1.7}.prior-signals{list-style:none;padding:0;margin:0}.prior-signals li{margin-bottom:6px}
+.research-panel details{margin-top:9px}.research-panel summary{cursor:pointer;color:var(--blue)}.research-panel pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:10px;max-height:230px;overflow:auto}
+.prior-sources{padding-left:16px;max-height:240px;overflow:auto}.prior-sources li{margin-bottom:10px;font-size:11px}.prior-sources code{display:block;overflow-wrap:anywhere;font-size:10px}.prior-conflict{color:var(--gold)}.prior-conflict p{margin:8px 0}
+footer.source-footer{display:block;text-align:left;font-size:12px;color:var(--muted);line-height:1.8}
+.source-footer h2{color:var(--text)}.source-footer p{margin-top:10px}.source-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 24px;padding:0;list-style:none;margin:18px 0}.source-list li{min-width:0}.source-list span{display:block;margin-top:4px}
+@media(max-width:900px){.tactics-cards,.source-list{grid-template-columns:1fr}}
+@media(max-width:540px){.research-panel{padding:15px}.research-controls{grid-template-columns:1fr}.research-load{align-items:flex-start;flex-wrap:wrap}.research-nav{gap:8px 14px}}

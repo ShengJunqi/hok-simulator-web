@@ -1,0 +1,79 @@
+{
+  "schema": "research.web.manifest.v1",
+  "as_of": "2026-11-10",
+  "exporter": "scripts/export_research_web.mjs",
+  "entries": [
+    {
+      "source": "data/research/tactics/rules_20261110.jsonl",
+      "href": "./data/tactics.json",
+      "source_sha256": "bea538069dcc764c6ea930a0881848cc4a016a101442dddce186fe7ea50295e0",
+      "export_sha256": "0982b22ed4db252bb493ae9a48bf5527b8d0d17f2a73286b935b844a7a5dab8a"
+    },
+    {
+      "source": "data/research/hero_prior/hero_prior_v2_20261110.json",
+      "href": "./data/hero-prior-v2.json",
+      "source_sha256": "1da70677135deeeb55f23326adbfd50882784ad832269d8e27f84a197786084b",
+      "export_sha256": "1da70677135deeeb55f23326adbfd50882784ad832269d8e27f84a197786084b"
+    },
+    {
+      "source": "docs/52_段位打法与对局过程模拟_20261110.md",
+      "href": "./sources/docs/52_段位打法与对局过程模拟_20261110.md",
+      "source_sha256": "400eb9a13bacf529c809787809b5ccdd8d7faeead48a1f8481ae77818261d09b",
+      "export_sha256": "400eb9a13bacf529c809787809b5ccdd8d7faeead48a1f8481ae77818261d09b"
+    },
+    {
+      "source": "docs/53_英雄强弱画像方法_20261110.md",
+      "href": "./sources/docs/53_英雄强弱画像方法_20261110.md",
+      "source_sha256": "c6ba0d70c85ef51f4385255180474bfc1b03241f657f49dcb4f3b8124d054864",
+      "export_sha256": "c6ba0d70c85ef51f4385255180474bfc1b03241f657f49dcb4f3b8124d054864"
+    },
+    {
+      "source": "docs/54_战术知识库_20261110.md",
+      "href": "./sources/docs/54_战术知识库_20261110.md",
+      "source_sha256": "773bca91c342416eb9e75ad7b90c30855b54e0b9c5a50091f779d9c7bc5cda79",
+      "export_sha256": "773bca91c342416eb9e75ad7b90c30855b54e0b9c5a50091f779d9c7bc5cda79"
+    },
+    {
+      "source": "docs/55_英雄先验v2_20261110.md",
+      "href": "./sources/docs/55_英雄先验v2_20261110.md",
+      "source_sha256": "60ee3243f1ea37433485dacf87ef872256492564983c630df28bca2371e1c0bc",
+      "export_sha256": "60ee3243f1ea37433485dacf87ef872256492564983c630df28bca2371e1c0bc"
+    },
+    {
+      "source": "handoff/T1_待Jason补充清单_20261110.md",
+      "href": "./sources/handoff/T1_待Jason补充清单_20261110.md",
+      "source_sha256": "510b8995a6afc369897d60810877b987a5c889b7b25b73fde17e6910d77a9fb7",
+      "export_sha256": "510b8995a6afc369897d60810877b987a5c889b7b25b73fde17e6910d77a9fb7"
+    },
+    {
+      "source": "handoff/T1b_PATCH_EXTEND_20261110.md",
+      "href": "./sources/handoff/T1b_PATCH_EXTEND_20261110.md",
+      "source_sha256": "99f1e58b05839b60d9aa7123f156df10ba8fd96f1aaf2f1a6331b59c97d37343",
+      "export_sha256": "99f1e58b05839b60d9aa7123f156df10ba8fd96f1aaf2f1a6331b59c97d37343"
+    },
+    {
+      "source": "handoff/T2_HANDOFF_20261110.md",
+      "href": "./sources/handoff/T2_HANDOFF_20261110.md",
+      "source_sha256": "096639d1cd476013fa74268560e3ddf8f56ba78a7f64c0a9d6d6b7511879b527",
+      "export_sha256": "096639d1cd476013fa74268560e3ddf8f56ba78a7f64c0a9d6d6b7511879b527"
+    },
+    {
+      "source": "handoff/X1_HERO_PRIOR_20261110.md",
+      "href": "./sources/handoff/X1_HERO_PRIOR_20261110.md",
+      "source_sha256": "fa3bad192b1036e53be80ab608e467b3de518cd37070afbc180d1d66d3961d91",
+      "export_sha256": "fa3bad192b1036e53be80ab608e467b3de518cd37070afbc180d1d66d3961d91"
+    },
+    {
+      "source": "handoff/X2_TACTICS_20261110.md",
+      "href": "./sources/handoff/X2_TACTICS_20261110.md",
+      "source_sha256": "7b1ae591a0bab05aa42ce6843db3fe66ff451d5bbe203604e3edb93bb7936ca5",
+      "export_sha256": "7b1ae591a0bab05aa42ce6843db3fe66ff451d5bbe203604e3edb93bb7936ca5"
+    },
+    {
+      "source": "handoff/X3_INGEST_GUIDE_20261110.md",
+      "href": "./sources/handoff/X3_INGEST_GUIDE_20261110.md",
+      "source_sha256": "95eca6cda202e0ceb8b838164ba8e636b5c4be7e58f0f6b751885a2d7e3c95f0",
+      "export_sha256": "95eca6cda202e0ceb8b838164ba8e636b5c4be7e58f0f6b751885a2d7e3c95f0"
+    }
+  ]
+}

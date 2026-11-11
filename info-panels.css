@@ -1,0 +1,29 @@
+#knowledge-panels{margin-top:24px;min-width:0;scroll-margin-top:20px}
+#knowledge-panels .info-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+#knowledge-panels .info-intro{font-size:12px;color:var(--muted);line-height:1.8;margin:8px 0 16px}
+#knowledge-panels .info-nav{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}
+#knowledge-panels .info-nav a{color:var(--gold);border:1px solid var(--line);border-radius:7px;padding:7px 12px;font-size:12px;text-decoration:none}
+#knowledge-panels .info-panel{padding:20px;margin-top:16px;min-width:0;scroll-margin-top:20px}
+#knowledge-panels .info-panel h3{font-size:14px;margin:18px 0 9px}
+#knowledge-panels .info-panel h4{font-size:13px;margin:0 0 8px;color:var(--gold)}
+#knowledge-panels .info-status{font-size:12px;color:var(--gold);margin:10px 0;line-height:1.7}
+#knowledge-panels .info-source{font-size:10px;color:var(--muted);overflow-wrap:anywhere;line-height:1.8;margin:8px 0}
+#knowledge-panels .info-table-wrap{max-width:100%;overflow-x:auto;border:1px solid var(--line);border-radius:8px;margin:12px 0}
+#knowledge-panels table{border-collapse:collapse;width:100%;font-size:12px;text-align:left;line-height:1.7}
+#knowledge-panels caption{text-align:left;padding:10px;color:var(--muted);font-size:11px}
+#knowledge-panels th,#knowledge-panels td{padding:10px;border-bottom:1px solid var(--line);vertical-align:top;min-width:80px;overflow-wrap:anywhere}
+#knowledge-panels th{color:var(--muted);font-weight:500;background:var(--surface2)}
+#knowledge-panels tbody tr:last-child td,#knowledge-panels tbody tr:last-child th{border-bottom:0}
+#knowledge-panels .info-controls{display:grid;grid-template-columns:repeat(auto-fit,minmax(145px,1fr));gap:12px;margin:14px 0}
+#knowledge-panels label{font-size:12px;display:block;color:var(--muted)}
+#knowledge-panels select,#knowledge-panels input{width:100%;box-sizing:border-box}
+#knowledge-panels .info-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));gap:12px;margin:12px 0}
+#knowledge-panels .info-card{padding:15px;background:#111b28;border:1px solid var(--line);border-radius:9px;min-width:0;font-size:12px;line-height:1.8}
+#knowledge-panels .info-card blockquote{margin:10px 0;padding-left:12px;border-left:2px solid var(--gold);color:var(--text)}
+#knowledge-panels .info-card details{font-size:11px;color:var(--muted);margin-top:10px;overflow-wrap:anywhere}
+#knowledge-panels summary{cursor:pointer}
+#knowledge-panels .info-output{display:block;background:#11202c;border-left:2px solid var(--blue);padding:12px;font-size:12px;line-height:1.8;white-space:pre-line}
+#knowledge-panels .info-pending{color:var(--muted)}
+#knowledge-panels button:focus-visible,#knowledge-panels a:focus-visible,#knowledge-panels input:focus-visible,#knowledge-panels select:focus-visible,#knowledge-panels summary:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+@media(max-width:600px){#knowledge-panels .info-panel{padding:15px}#knowledge-panels .info-cards{grid-template-columns:1fr}#knowledge-panels .info-controls{grid-template-columns:1fr 1fr}#knowledge-panels th,#knowledge-panels td{padding:8px;font-size:11px}}
+@media(max-width:390px){#knowledge-panels .info-controls{grid-template-columns:1fr}}

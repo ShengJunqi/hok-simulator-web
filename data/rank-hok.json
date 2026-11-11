@@ -1,0 +1,641 @@
+{
+  "schema_version": "mode-process-v2",
+  "server": "hok",
+  "patch": "synthetic-mode-v2",
+  "label": "合成演示/待标定",
+  "calibrated": false,
+  "data_version": "mode-demo-v2",
+  "profiles": {
+    "competitive": {
+      "server": "hok",
+      "patch": "synthetic-mode-v2",
+      "mode": "competitive",
+      "style_mix": {
+        "farm": 0.2,
+        "fight": 0.17,
+        "group": 0.11,
+        "macro": 0.26,
+        "roam_gank": 0.13,
+        "split": 0.13
+      },
+      "behavior": {
+        "comeback_tendency": 0.72,
+        "engage_threshold": 0.72,
+        "farm_efficiency": 0.88,
+        "resource_conversion": 0.82,
+        "risk_preference": 0.42,
+        "rotation_tendency": 0.8
+      },
+      "volatility": 0.35,
+      "source": "hok 独立两模式合成演示先验 v2；无实测样本；待标定",
+      "label": "合成演示/待标定",
+      "calibrated": false,
+      "mode_label": "比赛类型（对标荣耀）",
+      "style_labels": {
+        "fight": "打架",
+        "farm": "发育",
+        "macro": "运营",
+        "group": "连体",
+        "split": "带线（41）",
+        "roam_gank": "游走抓人"
+      },
+      "sample_size": 0,
+      "confidence": "unknown",
+      "data_version": "mode-demo-v2",
+      "synthetic": true,
+      "calibration_status": "未校准",
+      "game_patch": null,
+      "model_patch": "synthetic-mode-v2",
+      "pending_calibration": [
+        "engage_threshold",
+        "rotation_tendency",
+        "farm_efficiency",
+        "risk_preference",
+        "resource_conversion",
+        "comeback_tendency",
+        "style_mix",
+        "volatility"
+      ]
+    },
+    "ranked": {
+      "server": "hok",
+      "patch": "synthetic-mode-v2",
+      "mode": "ranked",
+      "style_mix": {
+        "farm": 0.23,
+        "fight": 0.22,
+        "group": 0.12,
+        "macro": 0.2,
+        "roam_gank": 0.12,
+        "split": 0.11
+      },
+      "behavior": {
+        "comeback_tendency": 0.6,
+        "engage_threshold": 0.6,
+        "farm_efficiency": 0.78,
+        "resource_conversion": 0.68,
+        "risk_preference": 0.5,
+        "rotation_tendency": 0.65
+      },
+      "volatility": 0.5,
+      "source": "hok 独立两模式合成演示先验 v2；无实测样本；待标定",
+      "label": "合成演示/待标定",
+      "calibrated": false,
+      "mode_label": "排位类型（对标低星王者）",
+      "style_labels": {
+        "fight": "打架",
+        "farm": "发育",
+        "macro": "运营",
+        "group": "连体",
+        "split": "带线（41）",
+        "roam_gank": "游走抓人"
+      },
+      "sample_size": 0,
+      "confidence": "unknown",
+      "data_version": "mode-demo-v2",
+      "synthetic": true,
+      "calibration_status": "未校准",
+      "game_patch": null,
+      "model_patch": "synthetic-mode-v2",
+      "pending_calibration": [
+        "engage_threshold",
+        "rotation_tendency",
+        "farm_efficiency",
+        "risk_preference",
+        "resource_conversion",
+        "comeback_tendency",
+        "style_mix",
+        "volatility"
+      ]
+    }
+  },
+  "modes": [
+    "competitive",
+    "ranked"
+  ],
+  "styles": [
+    "fight",
+    "farm",
+    "macro",
+    "group",
+    "split",
+    "roam_gank"
+  ],
+  "roles": [
+    "clash",
+    "mid",
+    "farm",
+    "jungle",
+    "roam"
+  ],
+  "parameter_units": {
+    "farm_per_min": "gold",
+    "wave_reward": "gold",
+    "kill_reward": "gold",
+    "tower_reward": "gold",
+    "dragon_reward": "gold",
+    "turning_point_gold": "gold",
+    "wave_chance": "probability",
+    "kill_chance": "probability",
+    "tower_chance": "probability",
+    "dragon_chance": "probability",
+    "contest_style_scale": "ratio",
+    "economy_feedback_per_1000": "ratio",
+    "comeback_scale": "ratio",
+    "process_volatility_scale": "ratio",
+    "fight_economy_scale": "ratio",
+    "fight_level_scale": "ratio",
+    "fight_phase_weight_early": "ratio",
+    "fight_phase_weight_mid": "ratio",
+    "fight_phase_weight_late": "ratio",
+    "fight_phase_weight_storm": "ratio",
+    "contest_fight_power_scale": "ratio",
+    "adc_dawn_ready_multiplier": "ratio",
+    "adc_dawn_not_ready_multiplier": "ratio",
+    "adc_dawn_price": "gold",
+    "adc_dawn_build_threshold": "gold",
+    "storm_max_defenders": "count"
+  },
+  "calibration_only": [
+    "adc_dawn_build_threshold",
+    "adc_dawn_price"
+  ],
+  "parameters": {
+    "server": "hok",
+    "patch": "synthetic-mode-v2",
+    "data_version": "mode-demo-v2",
+    "values": {
+      "adc_dawn_build_threshold": {
+        "unit": "gold",
+        "status": "待标定",
+        "metric": null
+      },
+      "adc_dawn_not_ready_multiplier": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.8,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "adc_dawn_price": {
+        "unit": "gold",
+        "status": "待标定",
+        "metric": null
+      },
+      "adc_dawn_ready_multiplier": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 1.25,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "comeback_scale": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.25,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "contest_fight_power_scale": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.12,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "contest_style_scale": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.8,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "dragon_chance": {
+        "unit": "probability",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.7,
+          "unit": "probability",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "dragon_reward": {
+        "unit": "gold",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 450,
+          "unit": "gold",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "economy_feedback_per_1000": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.08,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "farm_per_min": {
+        "unit": "gold",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 500,
+          "unit": "gold",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "fight_economy_scale": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.15,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "fight_level_scale": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.1,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "fight_phase_weight_early": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 1.0,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "fight_phase_weight_late": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 1.0,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "fight_phase_weight_mid": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 1.0,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "fight_phase_weight_storm": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 1.0,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "kill_chance": {
+        "unit": "probability",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.75,
+          "unit": "probability",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "kill_reward": {
+        "unit": "gold",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 300,
+          "unit": "gold",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "process_volatility_scale": {
+        "unit": "ratio",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.35,
+          "unit": "ratio",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "storm_max_defenders": {
+        "unit": "count",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 2,
+          "unit": "count",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "tower_chance": {
+        "unit": "probability",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.65,
+          "unit": "probability",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "tower_reward": {
+        "unit": "gold",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 600,
+          "unit": "gold",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "turning_point_gold": {
+        "unit": "gold",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 750,
+          "unit": "gold",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "wave_chance": {
+        "unit": "probability",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 0.8,
+          "unit": "probability",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      },
+      "wave_reward": {
+        "unit": "gold",
+        "status": "合成",
+        "metric": {
+          "server": "hok",
+          "patch": "synthetic-mode-v2",
+          "value": 350,
+          "unit": "gold",
+          "source": "hok 独立过程演示常数；合成演示/待标定",
+          "observed_at": "2026-11-10",
+          "sample_size": 0,
+          "confidence": "unknown",
+          "notes": "合成演示/待标定"
+        }
+      }
+    }
+  },
+  "coefficients": {
+    "server": "hok",
+    "patch": "synthetic-mode-v2",
+    "economy_per_1000": 0.35,
+    "time_interaction_per_min": 0.02,
+    "volatility_scale": 1.0,
+    "fight_power_scale": 0.18,
+    "storm_high_ground_scale": 0.25,
+    "storm_backdoor_scale": 0.4,
+    "label": "合成演示/待标定",
+    "calibrated": false
+  },
+  "style_kind": {
+    "fight": "kill",
+    "farm": "wave",
+    "macro": "dragon",
+    "group": "kill",
+    "split": "tower",
+    "roam_gank": "kill"
+  },
+  "kind_styles": {
+    "kill": [
+      "fight",
+      "group",
+      "roam_gank"
+    ],
+    "wave": [
+      "farm"
+    ],
+    "dragon": [
+      "macro"
+    ],
+    "tower": [
+      "split"
+    ]
+  },
+  "comeback_tags": [
+    "late_scaling",
+    "split",
+    "teamfight",
+    "pickoff",
+    "turtle"
+  ],
+  "comeback_paths": {
+    "late_scaling": "后期成长候选",
+    "split": "带线牵制候选",
+    "teamfight": "团战候选",
+    "pickoff": "抓单候选",
+    "turtle": "守线拖延候选"
+  },
+  "phases": [
+    {
+      "phase": "early",
+      "start_s": 0,
+      "end_s": 240,
+      "label": "0-4"
+    },
+    {
+      "phase": "mid",
+      "start_s": 240,
+      "end_s": 600,
+      "label": "4-10"
+    },
+    {
+      "phase": "late",
+      "start_s": 600,
+      "end_s": 1200,
+      "label": "10-20"
+    },
+    {
+      "phase": "storm",
+      "start_s": 1200,
+      "end_s": null,
+      "label": "20+"
+    }
+  ],
+  "assumptions": [
+    "合成演示/待标定",
+    "未校准；模型内 P(win) 映射，不代表真实胜率",
+    "蓝方为输入阵容；红方采用同模式合成打法先验，战力需要显式对手阵容",
+    "战力来自阶段分档与逐英雄经济/等级差；缺分不补2；历史 scoring 须显式指定版本",
+    "经济/等级差与风暴状态为调用方固定场景输入；团队收益不自动分账给射手，不据此猜破晓",
+    "10分钟启用射手装备节点；20分钟启用高地/带线/诱饵；价格与出装阈值 null 待标定",
+    "事件为每分钟合成机会抽样；击杀只表示合成击杀奖励事件，不推断真实战斗",
+    "塔/龙为合成资源机会，无真实地图存量、刷新/冷却或终局规则",
+    "过程固定时长，不将末帧映射作为真实比赛结果；未结算收益不补零"
+  ],
+  "defaults": {
+    "horizon_s": 1500,
+    "initial_economy_diff": 0.0
+  },
+  "source_sha256": {
+    "src/hokmodel/simulator/process.py": "e90ce8d432b99198e423a23720d0a28551b2d3109b7c5556b0a88730b65aebd7",
+    "src/hokmodel/simulator/rank_profiles.py": "6bb93b6fff3454d298cb724bd80901834d466389bdc5e2f4d98eb420b0188718",
+    "src/hokmodel/simulator/winprob2.py": "2cb8571e8ae6c2c94dc208cd7f6b141795092937d4f8da08b5c74711d103170f",
+    "src/hokmodel/simulator/comeback.py": "d368609831c2f01921e3275de1020b557bde4cd93073cff25d42f47e3f30ad77",
+    "src/hokmodel/simulator/ledger.py": "40348853fd1b26637c807a5c7b0f92a7325a03e8c982860a241356926f1999b3",
+    "src/hokmodel/simulator/phases.py": "df0824fff118ea73cec5749e264db80918215d5b448db820f5e2df988aff5b15",
+    "src/hokmodel/simulator/scoring.py": "3868d0430c202fc55eafb2c0f1a0cc5cb056b378be906956a11b1375f171b916",
+    "src/hokmodel/probability.py": "8280cc8bcb008427265145c6cde13016f85a0710eb13eb13b625be306da7b8b9"
+  }
+}

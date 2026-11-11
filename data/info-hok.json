@@ -1,0 +1,4002 @@
+{
+  "protocol": "hok-info-panels-v1",
+  "server": "hok",
+  "label": "静态资料 / 合成演示",
+  "scoring": {
+    "source": "data/simulator/parameters/hok/scoring_v1.json",
+    "availability": "available",
+    "sha256": "a60b2df1a2f1e3c87a01516bd9e020acce1f4bf1257a7356e025de64b36f3004",
+    "data": {
+      "schema_version": 1,
+      "kind": "scoring",
+      "server": "hok",
+      "version": "HOK-unverified",
+      "status": "待核实",
+      "active_by_default": false,
+      "heroes": {
+        "曹操": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "曹操",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Jungle": {
+              "hero": "曹操",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "狂铁": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "狂铁",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "马超": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "马超",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Jungle": {
+              "hero": "马超",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "杨戬": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "杨戬",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Jungle": {
+              "hero": "杨戬",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "夏洛特": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "夏洛特",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "蒙恬": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "蒙恬",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "哪吒": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "哪吒",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Jungle": {
+              "hero": "哪吒",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "司空震": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "司空震",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Farm": {
+              "hero": "司空震",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "海诺": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "海诺",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Mid": {
+              "hero": "海诺",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "孙策": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "孙策",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "姬小满": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "姬小满",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "关羽": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "关羽",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Roam": {
+              "hero": "关羽",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "老夫子": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "老夫子",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "花木兰": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "花木兰",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "刘邦": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "刘邦",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Roam": {
+              "hero": "刘邦",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "大司命": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "大司命",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Jungle": {
+              "hero": "大司命",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "盘古": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "盘古",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Jungle": {
+              "hero": "盘古",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "影": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "影",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Jungle": {
+              "hero": "影",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "梦奇": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "梦奇",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Jungle": {
+              "hero": "梦奇",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "达摩": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "达摩",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "白起": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "白起",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "猪八戒": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "猪八戒",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Jungle": {
+              "hero": "猪八戒",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "赵怀真": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "赵怀真",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Roam": {
+              "hero": "赵怀真",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "亚连": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "亚连",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "吕布": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "吕布",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "元歌": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "元歌",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Farm": {
+              "hero": "元歌",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "蚩奼": {
+          "by_lane": {
+            "Clash Lane": {
+              "hero": "蚩奼",
+              "lane": "Clash Lane",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Jungle": {
+              "hero": "蚩奼",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Farm": {
+              "hero": "蚩奼",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "诸葛亮": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "诸葛亮",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Mid": {
+              "hero": "诸葛亮",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "裴擒虎": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "裴擒虎",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "韩信": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "韩信",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "暃": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "暃",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "百里玄策": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "百里玄策",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "云缨": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "云缨",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "宫本武藏": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "宫本武藏",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "镜": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "镜",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "阿古朵": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "阿古朵",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Farm": {
+              "hero": "阿古朵",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "铠": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "铠",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "露娜": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "露娜",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "橘右京": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "橘右京",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "司马懿": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "司马懿",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "曜": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "曜",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "李白": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "李白",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "典韦": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "典韦",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "雅典娜": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "雅典娜",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "孙悟空": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "孙悟空",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "澜": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "澜",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "李元芳": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "李元芳",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Farm": {
+              "hero": "李元芳",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "赵云": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "赵云",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "云中君": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "云中君",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "兰陵王": {
+          "by_lane": {
+            "Jungle": {
+              "hero": "兰陵王",
+              "lane": "Jungle",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "沈梦溪": {
+          "by_lane": {
+            "Mid": {
+              "hero": "沈梦溪",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "杨玉环": {
+          "by_lane": {
+            "Mid": {
+              "hero": "杨玉环",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Roam": {
+              "hero": "杨玉环",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "女娲": {
+          "by_lane": {
+            "Mid": {
+              "hero": "女娲",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "嫦娥": {
+          "by_lane": {
+            "Mid": {
+              "hero": "嫦娥",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "甄姬": {
+          "by_lane": {
+            "Mid": {
+              "hero": "甄姬",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "大乔": {
+          "by_lane": {
+            "Mid": {
+              "hero": "大乔",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Roam": {
+              "hero": "大乔",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "不知火舞": {
+          "by_lane": {
+            "Mid": {
+              "hero": "不知火舞",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "小乔": {
+          "by_lane": {
+            "Mid": {
+              "hero": "小乔",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "西施": {
+          "by_lane": {
+            "Mid": {
+              "hero": "西施",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "海月": {
+          "by_lane": {
+            "Mid": {
+              "hero": "海月",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "武则天": {
+          "by_lane": {
+            "Mid": {
+              "hero": "武则天",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "貂蝉": {
+          "by_lane": {
+            "Mid": {
+              "hero": "貂蝉",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "高渐离": {
+          "by_lane": {
+            "Mid": {
+              "hero": "高渐离",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "墨子": {
+          "by_lane": {
+            "Mid": {
+              "hero": "墨子",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Roam": {
+              "hero": "墨子",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "上官婉儿": {
+          "by_lane": {
+            "Mid": {
+              "hero": "上官婉儿",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "张良": {
+          "by_lane": {
+            "Mid": {
+              "hero": "张良",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Roam": {
+              "hero": "张良",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "弈星": {
+          "by_lane": {
+            "Mid": {
+              "hero": "弈星",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "干将莫邪": {
+          "by_lane": {
+            "Mid": {
+              "hero": "干将莫邪",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "周瑜": {
+          "by_lane": {
+            "Mid": {
+              "hero": "周瑜",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "王昭君": {
+          "by_lane": {
+            "Mid": {
+              "hero": "王昭君",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Roam": {
+              "hero": "王昭君",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "安琪拉": {
+          "by_lane": {
+            "Mid": {
+              "hero": "安琪拉",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "嬴政": {
+          "by_lane": {
+            "Mid": {
+              "hero": "嬴政",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "妲己": {
+          "by_lane": {
+            "Mid": {
+              "hero": "妲己",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "姜子牙": {
+          "by_lane": {
+            "Mid": {
+              "hero": "姜子牙",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            },
+            "Roam": {
+              "hero": "姜子牙",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "扁鹊": {
+          "by_lane": {
+            "Mid": {
+              "hero": "扁鹊",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "米莱狄": {
+          "by_lane": {
+            "Mid": {
+              "hero": "米莱狄",
+              "lane": "Mid",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "艾琳": {
+          "by_lane": {
+            "Farm": {
+              "hero": "艾琳",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "孙尚香": {
+          "by_lane": {
+            "Farm": {
+              "hero": "孙尚香",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "公孙离": {
+          "by_lane": {
+            "Farm": {
+              "hero": "公孙离",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "戈娅": {
+          "by_lane": {
+            "Farm": {
+              "hero": "戈娅",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "敖隐": {
+          "by_lane": {
+            "Farm": {
+              "hero": "敖隐",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "虞姬": {
+          "by_lane": {
+            "Farm": {
+              "hero": "虞姬",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "苍": {
+          "by_lane": {
+            "Farm": {
+              "hero": "苍",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "狄仁杰": {
+          "by_lane": {
+            "Farm": {
+              "hero": "狄仁杰",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "李信": {
+          "by_lane": {
+            "Farm": {
+              "hero": "李信",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "后羿": {
+          "by_lane": {
+            "Farm": {
+              "hero": "后羿",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "孙权": {
+          "by_lane": {
+            "Farm": {
+              "hero": "孙权",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "鲁班七号": {
+          "by_lane": {
+            "Farm": {
+              "hero": "鲁班七号",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "百里守约": {
+          "by_lane": {
+            "Farm": {
+              "hero": "百里守约",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "马可波罗": {
+          "by_lane": {
+            "Farm": {
+              "hero": "马可波罗",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "伽罗": {
+          "by_lane": {
+            "Farm": {
+              "hero": "伽罗",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "黄忠": {
+          "by_lane": {
+            "Farm": {
+              "hero": "黄忠",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "蒙犽": {
+          "by_lane": {
+            "Farm": {
+              "hero": "蒙犽",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "元射（转录原称）": {
+          "by_lane": {
+            "Farm": {
+              "hero": "元射（转录原称）",
+              "lane": "Farm",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "unresolved_transcript_label"
+        },
+        "少司缘": {
+          "by_lane": {
+            "Roam": {
+              "hero": "少司缘",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "张飞": {
+          "by_lane": {
+            "Roam": {
+              "hero": "张飞",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "苏烈": {
+          "by_lane": {
+            "Roam": {
+              "hero": "苏烈",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "太乙真人": {
+          "by_lane": {
+            "Roam": {
+              "hero": "太乙真人",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "元辅（转录原称）": {
+          "by_lane": {
+            "Roam": {
+              "hero": "元辅（转录原称）",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "unresolved_transcript_label"
+        },
+        "空空玩（转录原称）": {
+          "by_lane": {
+            "Roam": {
+              "hero": "空空玩（转录原称）",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "unresolved_transcript_label"
+        },
+        "盾山": {
+          "by_lane": {
+            "Roam": {
+              "hero": "盾山",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "鲁班大师": {
+          "by_lane": {
+            "Roam": {
+              "hero": "鲁班大师",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "桑启": {
+          "by_lane": {
+            "Roam": {
+              "hero": "桑启",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "朵莉亚": {
+          "by_lane": {
+            "Roam": {
+              "hero": "朵莉亚",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "廉颇": {
+          "by_lane": {
+            "Roam": {
+              "hero": "廉颇",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "鬼谷子": {
+          "by_lane": {
+            "Roam": {
+              "hero": "鬼谷子",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "瑶": {
+          "by_lane": {
+            "Roam": {
+              "hero": "瑶",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "刘禅": {
+          "by_lane": {
+            "Roam": {
+              "hero": "刘禅",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "东皇太一": {
+          "by_lane": {
+            "Roam": {
+              "hero": "东皇太一",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "孙膑": {
+          "by_lane": {
+            "Roam": {
+              "hero": "孙膑",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "牛魔": {
+          "by_lane": {
+            "Roam": {
+              "hero": "牛魔",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "庄周": {
+          "by_lane": {
+            "Roam": {
+              "hero": "庄周",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "钟馗": {
+          "by_lane": {
+            "Roam": {
+              "hero": "钟馗",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "金蝉": {
+          "by_lane": {
+            "Roam": {
+              "hero": "金蝉",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "明世隐": {
+          "by_lane": {
+            "Roam": {
+              "hero": "明世隐",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        },
+        "蔡文姬": {
+          "by_lane": {
+            "Roam": {
+              "hero": "蔡文姬",
+              "lane": "Roam",
+              "tier": null,
+              "server": "hok",
+              "version": "HOK-unverified",
+              "status": "待核实",
+              "evidence_status": "unknown",
+              "basis": "unknown",
+              "source": [
+                {
+                  "kind": "rule_structure_only",
+                  "reference": "../cn/scoring_v1.json",
+                  "numeric_transfer": false
+                }
+              ],
+              "notes": "HOK英雄映射、分路及评分全部待单独核实；不得从CN回填。"
+            }
+          },
+          "identity_status": "named_hero_or_named_candidate"
+        }
+      },
+      "coverage": [],
+      "methodology": {
+        "score_range": [
+          1,
+          3
+        ],
+        "total": "sum of five hero lane scores; never sum overlapping pairs",
+        "purpose": "复用评分加总规则；CN英雄名仅对齐占位，不证明HOK有该英雄或相同评分",
+        "time_basis": "source.seconds always video time; never game clock",
+        "source": [
+          {
+            "bv": "BV1grUfBgEYW",
+            "seconds": 6,
+            "end_seconds": 33,
+            "time_basis": "video_seconds_not_game_clock",
+            "url": "https://www.bilibili.com/video/BV1grUfBgEYW?t=6",
+            "file": "BV1grUfBgEYW.md",
+            "line_start": 7,
+            "line_end": 19,
+            "quote": "一共分为三个档 / 1~3分不考虑其他队友阵容好坏 / 只考虑单出对阵容的提升程度啊 / 一分最弱 / 两分对阵容基本没有副作用 / 三分最强一分的就是突破口 / 你知道吧 / 三分的就是节奏点 / 到时候直接就是加分就行了 / 这样我打的时候我就直接看分就行了 / 知道吧 / 看分差 / 然后决定这把的风格就行了",
+            "server": "cn",
+            "version": "CN-2025-11/12"
+          },
+          {
+            "bv": "BV1grUfBgEYW",
+            "seconds": 40,
+            "end_seconds": 66,
+            "time_basis": "video_seconds_not_game_clock",
+            "url": "https://www.bilibili.com/video/BV1grUfBgEYW?t=40",
+            "file": "BV1grUfBgEYW.md",
+            "line_start": 24,
+            "line_end": 39,
+            "quote": "这把我们阵容没有他们好啊 / 我们是九分 / 他们是十分射辅 / 他们强 / 他们射辅五分 / 我们射辅三分啊 / 但是我们中辅比他们强 / 我们中辅是五分啊 / 对面中辅是四分 / 我们中野也比他们强 / 所以这把要避免陷入射辅连体的一个对局中啊 / 这把多去看嫦娥啊 / 就是在保证鲁班7号不死的情况下 / 多去看嫦娥这个点 / 避免他被苏烈闪开啊 / 避免苏烈打我的人数差啊",
+            "server": "cn",
+            "version": "CN-2025-11/12"
+          },
+          {
+            "bv": "BV1wdSJBnENV",
+            "seconds": 6730,
+            "end_seconds": 6748,
+            "time_basis": "video_seconds_not_game_clock",
+            "url": "https://www.bilibili.com/video/BV1wdSJBnENV?t=6730",
+            "file": "BV1wdSJBnENV.md",
+            "line_start": 2405,
+            "line_end": 2414,
+            "quote": "因为我一开始觉得差四分 / 可能是算是一个第一梯度了 / 就是第一呃最低的压力 / 但是我发现四分已经很恐怖了 / 好吧 / 四分已经有点可以算中等了 / 所以我调整了一下 / 我把0~0到三分算作第一级压力 / 就是阵容不算特别差 / 然后四分就算是比较差的阵容了",
+            "server": "cn",
+            "version": "CN-2025-11"
+          }
+        ],
+        "excluded_four_point_trial": {
+          "start_video_seconds": 750,
+          "end_video_seconds": 974,
+          "bv": "BV1wdSJBnENV"
+        },
+        "unknown_policy": "姓名、最终档分、位置不明则null；仅名次不推分；无分数英雄保留unknown。"
+      },
+      "style_rules": {
+        "status": "heuristic_pending_update",
+        "source": [
+          {
+            "bv": "BV1grUfBgEYW",
+            "seconds": 40,
+            "end_seconds": 66,
+            "time_basis": "video_seconds_not_game_clock",
+            "url": "https://www.bilibili.com/video/BV1grUfBgEYW?t=40",
+            "file": "BV1grUfBgEYW.md",
+            "line_start": 24,
+            "line_end": 39,
+            "quote": "这把我们阵容没有他们好啊 / 我们是九分 / 他们是十分射辅 / 他们强 / 他们射辅五分 / 我们射辅三分啊 / 但是我们中辅比他们强 / 我们中辅是五分啊 / 对面中辅是四分 / 我们中野也比他们强 / 所以这把要避免陷入射辅连体的一个对局中啊 / 这把多去看嫦娥啊 / 就是在保证鲁班7号不死的情况下 / 多去看嫦娥这个点 / 避免他被苏烈闪开啊 / 避免苏烈打我的人数差啊",
+            "server": "cn",
+            "version": "CN-2025-11/12"
+          },
+          {
+            "bv": "BV1wdSJBnENV",
+            "seconds": 4584,
+            "end_seconds": 4647,
+            "time_basis": "video_seconds_not_game_clock",
+            "url": "https://www.bilibili.com/video/BV1wdSJBnENV?t=4584",
+            "file": "BV1wdSJBnENV.md",
+            "line_start": 1604,
+            "line_end": 1628,
+            "quote": "哎呀差三分 / 差三分的话 / 那就是对注意对面辅助动向了好吧 / 打好对线 / 注意辅助动向还行吧 / 差三分啊 / 差三分 / 还行吧 / 差三分的话 / 多多注意对面辅助动向就行了 / 周瑜12345678 / 我们是六分是吧 / 哇那还真是三分啊 / 敌军还有五秒到达战场 / 请做好准备 / 全军出击 / 差三分的话 / 就是优先处理好对线 / 注意对手辅助动向 / 如果这局你赢了 / 优先打好对线 / 注意对面辅助动向啊 / 跟着他走就行了 / 不要让他去打 / 我们人群大",
+            "server": "cn",
+            "version": "CN-2025-11"
+          },
+          {
+            "bv": "BV1wdSJBnENV",
+            "seconds": 6730,
+            "end_seconds": 6748,
+            "time_basis": "video_seconds_not_game_clock",
+            "url": "https://www.bilibili.com/video/BV1wdSJBnENV?t=6730",
+            "file": "BV1wdSJBnENV.md",
+            "line_start": 2405,
+            "line_end": 2414,
+            "quote": "因为我一开始觉得差四分 / 可能是算是一个第一梯度了 / 就是第一呃最低的压力 / 但是我发现四分已经很恐怖了 / 好吧 / 四分已经有点可以算中等了 / 所以我调整了一下 / 我把0~0到三分算作第一级压力 / 就是阵容不算特别差 / 然后四分就算是比较差的阵容了",
+            "server": "cn",
+            "version": "CN-2025-11"
+          },
+          {
+            "bv": "BV13u28BQEhc",
+            "seconds": 5556,
+            "end_seconds": 5567,
+            "time_basis": "video_seconds_not_game_clock",
+            "url": "https://www.bilibili.com/video/BV13u28BQEhc?t=5556",
+            "file": "BV13u28BQEhc.md",
+            "line_start": 2375,
+            "line_end": 2381,
+            "quote": "我们这把差三分啊 / 对面中辅是三分还行 / 这把一级跟踪啊 / 这把我们阵容好差啊 / 这把要保KDA了 / 阵容差得稳住啊 / 不能给他们机会啊",
+            "server": "cn",
+            "version": "CN-2025-12"
+          }
+        ],
+        "notes": "仅三档历史打法提示；射辅负差才提示避免连体；总分差不能代替各组合差。"
+      }
+    }
+  },
+  "economy": {
+    "source": "data/simulator/parameters/hok/economy_v1.json",
+    "availability": "available",
+    "sha256": "6b29f295c6bf8bac5f7a939c648d347c41e4ad49d0c639ebc08343602c98b55f",
+    "data": {
+      "schema_version": 1,
+      "kind": "economy",
+      "server": "hok",
+      "version": "HOK-unverified",
+      "status": "待核实",
+      "active_by_default": false,
+      "source_scope": "只复用CN规则结构，HOK数值单独核实。",
+      "game_patch": null,
+      "values": {
+        "jungle.pheasant.gold": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "gold",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.pheasant.gold",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.armadillo.gold": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "gold",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.armadillo.gold",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "wave.front.gold": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "gold",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/wave.front.gold",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "wave.back_each.gold": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "gold",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/wave.back_each.gold",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "wave.back.count": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "count",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/wave.back.count",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "wave.early_total.gold": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "gold",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/wave.early_total.gold",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "wave.refresh_time_assumption_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/wave.refresh_time_assumption_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "wave.first_spawn_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/wave.first_spawn_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "wave.respawn_interval_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/wave.respawn_interval_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.pheasant.first_spawn_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.pheasant.first_spawn_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.pheasant.respawn_interval_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.pheasant.respawn_interval_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.armadillo.first_spawn_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.armadillo.first_spawn_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.armadillo.respawn_interval_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.armadillo.respawn_interval_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.river.first_spawn_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.river.first_spawn_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.river.respawn_interval_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.river.respawn_interval_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.bird.first_spawn_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.bird.first_spawn_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.bird.respawn_interval_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.bird.respawn_interval_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.river.gold": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "gold",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.river.gold",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.river.expected_count_0_4": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "expected_count",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.river.expected_count_0_4",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.river.expected_pool_0_4.gold": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "gold",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.river.expected_pool_0_4.gold",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.bird.total.gold": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "gold",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.bird.total.gold",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.bird.local.gold": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "gold",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.bird.local.gold",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.bird.team_bonus_each.gold": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "gold",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.bird.team_bonus_each.gold",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.bird.team_bonus_count": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "count",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.bird.team_bonus_count",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.shanhao.gold": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "gold",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.shanhao.gold",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.shanhao.count": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "count",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.shanhao.count",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.shanhao.first_spawn_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.shanhao.first_spawn_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.shanhao.respawn_interval_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.shanhao.respawn_interval_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "jungle.exit_time_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "game_s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/jungle.exit_time_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "support.minimum_rate": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "ratio",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/support.minimum_rate",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "support.maximum_rate": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "ratio",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/support.maximum_rate",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "support.cap_time_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "game_s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/support.cap_time_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "support.interior_rate_curve": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "ratio_function",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/support.interior_rate_curve",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "support.bird_rate": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "ratio",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/support.bird_rate",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "support.other_rate": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "ratio",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/support.other_rate",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "support.other_representative_time_s": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "game_s",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/support.other_representative_time_s",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "sharing.solo_each": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "ratio",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/sharing.solo_each",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "sharing.duo_each": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "ratio",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/sharing.duo_each",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "sharing.last_hit_bonus": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "ratio",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/sharing.last_hit_bonus",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        },
+        "sharing.duo_support_fixed_rate": {
+          "server": "hok",
+          "version": "HOK-unverified",
+          "value": null,
+          "unit": "ratio",
+          "status": "unknown",
+          "source": [
+            {
+              "kind": "rule_structure_only",
+              "reference": "../cn/economy_v1.json#values/sharing.duo_support_fixed_rate",
+              "numeric_transfer": false
+            }
+          ],
+          "notes": "HOK数值未核实，禁止CN回填。"
+        }
+      },
+      "rules": {
+        "map_resources": "CN/HOK共享资源结构，不表示数值一致",
+        "mirrored_small_camps": "上下路各一组赤甲/烈雉，资源池不重叠",
+        "sharing": "n只计非辅助吃线者；2+辅助按两个非辅助份额，辅助额外另列；补刀奖励一次",
+        "support": "辅助不减队友份额；红隼额外只作用于local金币，不能把全队20×5再加成",
+        "time": "所有刷新/上限为局内秒；source.seconds为视频秒，不可互换",
+        "support_curve": "默认未知；若显式启用linear_assumption则只是待核实建模假设",
+        "wave_basis": "71/57的补刀口径不明；shared_gold只返回倍率，不自动乘兵线金币"
+      },
+      "word_check": {
+        "date": null,
+        "method": null,
+        "result": "HOK数值待独立核实，CN原稿检查不可迁移。"
+      }
+    }
+  },
+  "command": {
+    "source": "handoff/CMD_W1_20261110.md",
+    "sha256": "a37a9d98a61a83906176828b80bfd6877629559ed060d5ae17a5e24d718b2506",
+    "availability": "available",
+    "cards": [
+      {
+        "category": "集合",
+        "condition": "需要跟伤害、成员未就绪；A05:09，C00:11",
+        "template": "“看我，等{成员}准备好再一起补。”",
+        "source": "handoff/CMD_W1_20261110.md"
+      },
+      {
+        "category": "开团",
+        "condition": "明确集火目标或敌人脱节；A16:02–04",
+        "template": "“{目标}脱节了，能跟的打他。”",
+        "source": "handoff/CMD_W1_20261110.md"
+      },
+      {
+        "category": "撤退",
+        "condition": "低血取消越塔/击杀不可继续；A07:56–59、14:14",
+        "template": "“{条件}不够，取消这波，先走。”",
+        "source": "handoff/CMD_W1_20261110.md"
+      },
+      {
+        "category": "换线/转线",
+        "condition": "分配去中、留人拿下路资源；A06:15–16，C02:45",
+        "template": "“你们过中，{成员}留边处理{任务}。”未见完整双边互换证据。",
+        "source": "handoff/CMD_W1_20261110.md"
+      },
+      {
+        "category": "资源",
+        "condition": "口述红将刷新，先清线再进；A09:19–23",
+        "template": "“{资源}快刷，先清{线}，能到的进。”",
+        "source": "handoff/CMD_W1_20261110.md"
+      },
+      {
+        "category": "视野",
+        "condition": "敌人失踪/去向只是推测；A05:50–51、08:38–49",
+        "template": "“{敌人}位置未确认，先看{区域}再决定。”",
+        "source": "handoff/CMD_W1_20261110.md"
+      },
+      {
+        "category": "保人",
+        "condition": "敌方开大、后排站位风险；C03:08–11，A15:57–59",
+        "template": "“{威胁}来了，后排站开，先看射手位置。”",
+        "source": "handoff/CMD_W1_20261110.md"
+      }
+    ]
+  },
+  "dragon": {
+    "source": "handoff/CODEX_DRAGON_WOLVES_TTG_20261110.md",
+    "sha256": "d345cc8e9261d7222f98444d28303a8e21c980a57b4f423f5f31544b1c099802",
+    "availability": "available",
+    "ordinary": "开龙前：核对兵线到塔压力、双方实际可到人数、血蓝/关键技能/惩击、核心装备、输出与承伤分工、敌方最后视野及退路。人数按到达计；经济领先不自动产生开龙权。BP拆解20:00–21:00、50:30–51:30区分到场速度、前排与拼惩能力（属他场观点）。",
+    "storm": "风暴龙更具决定性，但与普通龙逻辑同构、权重更高：仍比较线、视野、集结、技能及回防；提高终结风险、增益防守压力和失误代价。普通双龙可置换的条件不能默认延续到风暴阶段。恒哥教学01:30–02:30的“必抢、放弃兵线”是作者强表述，不作无条件规则；危及基地或无有效入场路径时仍需比较守家/拖增益。字幕中的伤害、刷新、羁绊数值均非本研究参数。",
+    "cards": [
+      {
+        "id": "start",
+        "title": "开龙",
+        "description": "先核对到场、兵线、技能、惩击、入口与退路；无争夺窗口不足时另评争夺。",
+        "evidence": "开龙前：核对兵线到塔压力、双方实际可到人数、血蓝/关键技能/惩击、核心装备、输出与承伤分工、敌方最后视野及退路。人数按到达计；经济领先不自动产生开龙权。BP拆解20:00–21:00、50:30–51:30区分到场速度、前排与拼惩能力（属他场观点）。",
+        "source": "handoff/CODEX_DRAGON_WOLVES_TTG_20261110.md"
+      },
+      {
+        "id": "turn",
+        "title": "转开",
+        "description": "确认目标脱节与增援时间；击杀并撤离不能晚于敌方回包。",
+        "evidence": "候选变量按 server/patch 分域：objective_type、entry_control、retreat_open、smite_ready、key_cd_ready、core_ready（枚举/三态）；arrive_s、kill_dragon_s、enemy_finish_s、enemy_rotate_s、pick_s、escape_s、base_deadline_s（秒）。到达/截止以决策时刻为零点。无争夺开龙须 arrive_s+kill_dragon_s+escape_s < safe_window_s，arrive_s取所需成员最晚到达；否则另评争夺。转开候选若 pick_s+escape_s >= enemy_finish_s+enemy_rotate_s，标记被回包窗口冲突并重评；已在支援者的到达时间另取最早值。视野过期、爆发与执行误差缺参待标定。",
+        "source": "handoff/CODEX_DRAGON_WOLVES_TTG_20261110.md"
+      },
+      {
+        "id": "trade",
+        "title": "换龙 / 换资源",
+        "description": "确认另一目标存在，路径安全，完成与撤退早于敌方转场。",
+        "evidence": "换龙：先确认另一目标存在、路径安全、完成与撤退早于敌方转场；换龙、放龙、换野/塔/线分列。离别04:30–05:00的四人阻换、一人打龙需满足留守打龙能力与四人拖延窗口，不能照搬成固定阵型。",
+        "source": "handoff/CODEX_DRAGON_WOLVES_TTG_20261110.md"
+      },
+      {
+        "id": "concede",
+        "title": "放龙",
+        "description": "正面条件不足时保清线和基地，记录实际换得的资源，再评接团。",
+        "evidence": "放龙：正面条件不足时，保清线、塔和发育窗口，记录实际换得什么；不要先放龙再于对方即将拿完时仓促开团。离别07:00–08:00区分清线守家与抓单搏机会。抢龙：须有观察龙状态的手段、入坑路径、惩击/爆发可用与代价判断；入口被封不等于盲冲。只有逼出关键资源或制造人数差，才重评开龙/争龙。",
+        "source": "handoff/CODEX_DRAGON_WOLVES_TTG_20261110.md"
+      },
+      {
+        "id": "steal",
+        "title": "抢龙",
+        "description": "确认龙状态可观察、入坑路径、惩击或爆发，以及失败代价。",
+        "evidence": "放龙：正面条件不足时，保清线、塔和发育窗口，记录实际换得什么；不要先放龙再于对方即将拿完时仓促开团。离别07:00–08:00区分清线守家与抓单搏机会。抢龙：须有观察龙状态的手段、入坑路径、惩击/爆发可用与代价判断；入口被封不等于盲冲。只有逼出关键资源或制造人数差，才重评开龙/争龙。",
+        "source": "handoff/CODEX_DRAGON_WOLVES_TTG_20261110.md"
+      },
+      {
+        "id": "reset",
+        "title": "撤退 / 重评",
+        "description": "人数、技能、视野或线压力变化时重新判断；未知输入保持待标定。",
+        "evidence": "dragon：输出 start/turn/trade/concede/steal/reset 候选及逐项 allow/reject/unknown 原因。硬门槛先于评分；输入未知保持null。入口保存视野及观测时间，部署不重复；敌方转场取可观察信息，不能读取隐藏位置。取得龙只结算该实例，不自动推导团胜或比赛胜。",
+        "source": "handoff/CODEX_DRAGON_WOLVES_TTG_20261110.md"
+      }
+    ]
+  }
+}

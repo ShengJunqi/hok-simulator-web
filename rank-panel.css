@@ -1,0 +1,46 @@
+.rank-panel{padding:22px;margin-top:18px;scroll-margin-top:20px;min-width:0;container:rank-panel / inline-size}
+.rank-panel .rank-intro{font-size:12px;color:var(--muted);margin:12px 0 22px;max-width:800px;line-height:1.8}
+.rank-layout{display:grid;grid-template-columns:minmax(280px,.85fr) minmax(0,2fr);gap:24px;align-items:start}
+.rank-form{min-width:0;border-right:1px solid var(--line);padding-right:22px;container:rank-form / inline-size}
+.rank-panel .field-pair,.rank-storm-fields{grid-template-columns:repeat(2,minmax(0,1fr))}
+.rank-panel .rank-mode-fields{grid-template-columns:minmax(0,1fr)}
+.rank-panel label,.rank-panel input,.rank-panel select{min-width:0}
+.rank-panel>.panel-heading{flex-wrap:wrap;align-items:flex-start}
+.rank-panel .section-heading{min-width:0}.rank-panel .section-number{flex-shrink:0}
+.rank-interpretation{padding:12px 14px;margin:0 0 18px;border-left:3px solid var(--gold);border-radius:5px;background:#e9c17c0a;font-size:12px;line-height:1.9;overflow-wrap:anywhere}
+.rank-form fieldset{border:0;padding:0;margin:19px 0 8px;min-width:0}
+.rank-form legend{font-size:12px;color:var(--text);margin-bottom:10px}
+.rank-heroes{display:grid;gap:7px}
+.rank-hero{display:grid;grid-template-columns:57px minmax(0,1fr);align-items:center;gap:8px}
+.rank-panel .rank-hero input{margin:0;min-height:32px;font-size:12px;width:100%}
+.rank-style{display:grid;grid-template-columns:70px minmax(0,1fr) 40px;align-items:center;gap:8px;margin:10px 0;font-size:12px}
+.rank-panel .rank-style input{accent-color:var(--gold);padding:0;margin:0;min-height:30px;width:100%}
+.rank-style output{font-variant-numeric:tabular-nums;text-align:right;color:var(--gold)}
+.rank-total-row{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:12px}
+.rank-total-row button{font-size:10px;padding:5px 7px}
+.rank-total-row output{color:var(--green)}
+.rank-total-row output[data-valid="false"]{color:#ffb5aa}
+.rank-validation{font-size:11px;min-height:36px;margin:8px 0;color:var(--muted)}
+.rank-buttons{display:flex;gap:8px;margin-top:8px}.rank-buttons button{flex:1;font-size:11px}
+.rank-output{min-width:0}.rank-chart-heading{display:flex;align-items:center;justify-content:space-between;gap:8px;margin:12px 0}
+.rank-panel svg{width:100%;display:block;overflow:visible}.rank-panel svg text{font:11px "Segoe UI","Microsoft YaHei",sans-serif;fill:#b2c1d2}
+#rankChart{background:#111a25;border-radius:8px;border:1px solid var(--line)}
+.rank-table-wrap{overflow:auto;max-width:100%;margin:10px 0 22px;scrollbar-width:thin;scrollbar-color:#61758e #111a25}.rank-table-wrap:focus-visible{outline:2px solid var(--gold);outline-offset:3px}.rank-table{width:100%;border-collapse:collapse;font-size:11px;text-align:left;font-variant-numeric:tabular-nums}
+.rank-scroll-hint{display:none;margin-top:4px;color:var(--blue)}
+.rank-table caption{text-align:left;font-size:10px;color:var(--muted);padding:6px 0}.rank-table th{color:var(--muted);font-weight:500}.rank-table td,.rank-table th{padding:8px 6px;border-bottom:1px solid var(--line);white-space:nowrap}
+.rank-probability{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;align-items:center;padding:16px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin:18px 0 20px}
+.rank-probability h3 .tag{display:inline-block;margin-top:5px;font-size:9px}.rank-probability strong{display:block;font-size:30px;color:var(--gold);font-variant-numeric:tabular-nums;margin:6px 0}
+.rank-events-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.rank-timeline{max-height:310px;overflow:auto;scrollbar-width:thin}
+.rank-event{display:block;width:100%;text-align:left;margin:0 0 6px;padding:9px;font-size:11px;background:#101a26}
+.rank-event[aria-pressed="true"]{border-color:var(--gold)}.rank-event time{color:var(--gold);font:10px monospace;margin-right:7px}
+.rank-event small{display:block;color:var(--muted);margin-top:5px}.rank-evidence{font-size:11px;min-width:0;overflow-wrap:anywhere}.rank-evidence p{margin-bottom:8px}
+.rank-evidence pre{white-space:pre-wrap;overflow-wrap:anywhere;max-height:210px;overflow:auto;background:#101a26;padding:9px;font-size:10px;border-radius:6px}
+.rank-comeback-title{margin:20px 0 10px}.rank-comeback-title .tag{font-size:9px}.rank-comebacks{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.rank-comeback{padding:12px;border:1px dashed #435267;border-radius:8px;min-width:0}.rank-comeback h4{font-size:12px;color:var(--text);margin:0 0 7px}.rank-comeback p{font-size:11px;color:var(--muted);line-height:1.7}
+.rank-calibration{font-size:11px;margin-top:18px;border-top:1px solid var(--line);padding-top:12px}.rank-calibration summary{cursor:pointer}.rank-calibration ul{padding-left:18px;line-height:1.8;max-height:200px;overflow:auto;overflow-wrap:anywhere}.rank-calibration p{margin-top:10px}
+.rank-combat-inputs{margin:16px 0;padding:12px 0;border-block:1px solid var(--line);font-size:12px}.rank-combat-inputs summary{cursor:pointer;color:var(--gold)}.rank-combat-inputs h4{margin:16px 0 8px;font-size:12px}.rank-combat-inputs p{font-size:10px;line-height:1.7;margin:9px 0;color:var(--muted)}.rank-scenario-buttons{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0}.rank-scenario-buttons button{font-size:10px;padding:6px}.rank-combat-table input,.rank-combat-table select{width:78px;font-size:11px;min-height:32px;margin:0;padding:5px}.rank-combat-table td:first-child input{width:105px;margin-top:5px;display:block}.rank-storm-fields{display:grid;grid-template-columns:1fr 1fr;gap:8px}.rank-storm-fields label{font-size:11px}.rank-combat-summary{display:grid;grid-template-columns:1fr 1fr;gap:10px;font-size:11px;margin:10px 0}.rank-combat-summary p{padding:10px;background:#111a25;border:1px solid var(--line);border-radius:6px;line-height:1.8;overflow-wrap:anywhere}
+@container rank-panel (max-width:880px){.rank-layout{grid-template-columns:minmax(0,1fr)}.rank-form{border-right:0;border-bottom:1px solid var(--line);padding:0 0 18px}}
+@container rank-form (min-width:520px){.rank-heroes,.rank-panel .rank-mode-fields{grid-template-columns:repeat(2,minmax(0,1fr))}.rank-form #rankStyles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 18px}}
+@container rank-panel (max-width:640px){.rank-probability,.rank-events-grid,.rank-comebacks,.rank-combat-summary{grid-template-columns:minmax(0,1fr)}.rank-chart-heading{align-items:start;flex-direction:column}.rank-probability svg{max-width:360px;justify-self:center}.rank-scroll-hint{display:block}.rank-table caption{white-space:normal}}
+@media(max-width:560px){.rank-panel{padding:16px}.rank-panel h2{font-size:16px}}
+@media(max-width:480px){.header-right a[href="#rankPanel"]{display:none}}
