@@ -6,8 +6,8 @@
     {
       "source": "data/research/tactics/rules_20261110.jsonl",
       "href": "./data/tactics.json",
-      "source_sha256": "bea538069dcc764c6ea930a0881848cc4a016a101442dddce186fe7ea50295e0",
-      "export_sha256": "0982b22ed4db252bb493ae9a48bf5527b8d0d17f2a73286b935b844a7a5dab8a"
+      "source_sha256": "73867f281d727635448d74944c6e02aea3a86f35188330f9b1a01b382bc2d21e",
+      "export_sha256": "aaf2af9e5c279c5c2fa1789280c084479780ac0040d456a3872ba26fa0641533"
     },
     {
       "source": "data/research/hero_prior/hero_prior_v2_20261110.json",

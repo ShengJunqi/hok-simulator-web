@@ -15,7 +15,10 @@ export function validateTactics(data) {
   for (const row of data.records) {
     requireValue(['id','topic','rule','trigger','counterexample','source_bv','source_file','source_scope','version_risk','hok_applicability'].every(key => nonempty(row[key])), '战术字段缺失');
     requireValue(!ids.has(row.id), '战术 ID 重复'); ids.add(row.id);
-    requireValue(Number.isInteger(row.source_s) && row.source_s >= 0 && videoURL(row.source_bv, row.source_s) === row.source_url, '战术视频来源无效');
+    const sourceOK = row.source_s === null
+      ? videoURL(row.source_bv, null) === row.source_url
+      : Number.isInteger(row.source_s) && row.source_s >= 0 && videoURL(row.source_bv, row.source_s) === row.source_url;
+    requireValue(sourceOK, '战术视频来源无效');
     requireValue(row.status === 'candidate' && row.audiovisual_verified === false && row.active_by_default === false && row.game_s === null && row.game_patch === null && Array.isArray(row.conflict_ids), '战术核验/时间/版本边界不一致');
   }
   return data;

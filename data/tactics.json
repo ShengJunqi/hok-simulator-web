@@ -1,9 +1,11 @@
 {
   "schema": "research.tactics.web.v1",
   "meta": {
-    "as_of": "2026-11-10",
+    "as_of": "2026-11-11",
     "source": "data/research/tactics/rules_20261110.jsonl",
-    "source_sha256": "bea538069dcc764c6ea930a0881848cc4a016a101442dddce186fe7ea50295e0",
+    "source_sha256": "73867f281d727635448d74944c6e02aea3a86f35188330f9b1a01b382bc2d21e",
+    "record_count": 100,
+    "excluded_unknown_timestamp_records": 16,
     "status": "candidate",
     "audiovisual_verified": false,
     "active_by_default": false,

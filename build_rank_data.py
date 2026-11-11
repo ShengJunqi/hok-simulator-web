@@ -39,5 +39,5 @@ def make_bundle(server):
 if __name__ == "__main__":
     for server in ("cn", "hok"):
         destination = Path(__file__).resolve().parent / "data" / f"rank-{server}.json"
-        destination.write_text(json.dumps(make_bundle(server), ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        destination.write_text(json.dumps(make_bundle(server), ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
         print(destination.relative_to(ROOT))

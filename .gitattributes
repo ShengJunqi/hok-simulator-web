@@ -1,4 +1,3 @@
-# Preserve byte-identical dated research exports (including source CRLF).
-data/hero-tags.json -text whitespace=cr-at-eol
-data/calibration-example.json -text whitespace=cr-at-eol
-sources/docs/*20261111.md -text whitespace=cr-at-eol
+# Preserve exact exported bytes across Windows checkout and GitHub Pages.
+data/*.json -text whitespace=cr-at-eol
+sources/** -text whitespace=cr-at-eol
